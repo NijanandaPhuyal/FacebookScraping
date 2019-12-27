@@ -90,7 +90,7 @@ if __name__ == '__main__':
                         englishbtn.click()
                         engflag = 1
                     driver.find_element_by_id('email').send_keys("nijanphuyal@gmail.com")
-                    driver.find_element_by_id('pass').send_keys("Laddin1998124")
+                    driver.find_element_by_id('pass').send_keys("password12345678")
                     driver.find_element_by_id('pass').send_keys(Keys.ENTER)
                 except:
                     logging.info("englishbtn error")

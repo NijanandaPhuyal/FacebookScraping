@@ -1,0 +1,21 @@
+00:26:59: log started
+00:27:01: Parsed Pages Tab
+00:27:02: Parsed Filter Tab
+00:27:07: Scraping Every Record - b'https://www.facebook.com/runelund.dk/'
+00:27:19: Scraping Every Record - b'https://www.facebook.com/mogensjensen/'
+00:27:47: PostURL https://www.facebook.com/mogensjensen/posts/3088240854522569
+00:27:47: Post Date b'12/18/19, 12:14 PM'
+00:27:47: Post Content: b'Kl. 6 imorges landede vi en EU-fiskeriaftale hvor Danmark som det f\xc3\xb8rste land i Europa indf\xc3\xb8rer elektronisk monitorering af fiskeriet i stor skala.\nElektronisk monitorering er den rigtige vej hen imod en mere moderne, mere gr\xc3\xb8n og mere b\xc3\xa6redygtig fiskeriforvaltning. Og det giver mulighed for at vi ikke, som ellers foresl\xc3\xa5et, skal standse det vigtige fiskeri af jomfruhummer i Kattegat, hvor torsk er bifangst, da vi her f\xc3\xa5r en bifangstkvote p\xc3\xa5 80 tons til Danmark.\nVi rammer s\xc3\xa5ledes en fornuftig balance mellem fiskeriet og arbejdet for at genoprette torskebestanden...'
+00:27:47: Scraping Every Record - b'https://www.facebook.com/sorenespersen/'
+00:28:09: PostURL https://www.facebook.com/sorenespersen/posts/2420184264866014
+00:28:09: Post Date b'11/15/19, 9:38 PM'
+00:28:09: Post Content is missing
+00:28:09: Scraping Every Record - b'https://www.facebook.com/heunicke/'
+00:28:27: Scraping Every Record - b'https://www.facebook.com/SimonEmil/'
+00:28:29: Scraping Every Record - b'https://www.facebook.com/kplorentzen/'
+00:28:31: Scraping Every Record - b'https://www.facebook.com/TroelsLundPoulsen/'
+00:28:33: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C3B567EAC8>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it',)': /session/ee57dc930d762ce94acc430dcaf3a272/url
+00:28:35: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C3B56EBEF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it',)': /session/ee57dc930d762ce94acc430dcaf3a272/url
+00:28:37: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C3B56EBFD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it',)': /session/ee57dc930d762ce94acc430dcaf3a272/url
+00:28:39: Scraping Every Record - b'https://www.facebook.com/ekstrabladet/'
+00:28:41: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C3B56EB9E8>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it',)': /session/ee57dc930d762ce94acc430dcaf3a272/url

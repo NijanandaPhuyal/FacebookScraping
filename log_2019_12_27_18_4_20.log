@@ -1,0 +1,799 @@
+18:04:20: log started
+18:04:23: Parsed Pages Tab
+18:04:24: Parsed Filter Tab
+18:04:30: Scraping Every Record - b'https://www.facebook.com/pernille.skipper.5/'
+18:04:50: englishbtn error
+18:04:54: Date Option Element get error
+18:04:54: PostURL https://www.facebook.com/pernille.skipper.5/posts/
+18:04:54: Post Date b'\xd9\xa6\xe2\x80\x8f/\xd9\xa1\xd9\xa2\xe2\x80\x8f/\xd9\xa2\xd9\xa0\xd9\xa1\xd9\xa9 \xd9\xa1\xd9\xa2:\xd9\xa5\xd9\xa2 \xd9\x85'
+18:04:54: Post Content: b'Nu har Danmark snart en af verdens mest ambiti\xc3\xb8se klimalove, og nu er det slut med at sige til ungdommen, at der er noget, der ikke kan lade sig g\xc3\xb8re. For et \xc3\xa5r siden var det to partier i Folketinget, der snakkede om 70% reduktion senest i 2030. Nu er et gigantisk flertal bag en bindende klimalov, med bindende delm\xc3\xa5l og social balance. Det er intet mindre end historisk. Tillykke til jer\xf0\x9f\x92\x9a'
+18:04:54: Scraping Every Record - b'https://www.facebook.com/rasmuslanghoff.dk'
+18:05:02: englishbtn error
+18:05:06: Date Option Element get error
+18:05:06: PostURL https://www.facebook.com/rasmuslanghoff.dk/posts/
+18:05:06: Post Date b'\xd9\xa2\xe2\x80\x8f/\xd9\xa1\xd9\xa2\xe2\x80\x8f/\xd9\xa2\xd9\xa0\xd9\xa1\xd9\xa9 \xd9\xa1:\xd9\xa3\xd9\xa9 \xd9\x85'
+18:05:06: Post Content: b'VELF\xc3\x86RDENS FINANSLOV \xf0\x9f\x8c\xb9'
+18:05:06: Scraping Every Record - b'https://www.facebook.com/Annette-Lind-879906758810052'
+18:06:19: PostURL https://www.facebook.com/Annette-Lind-879906758810052/posts/1868483859952332
+18:06:19: Post Date b'5/30/19, 6:06 PM'
+18:06:19: Post Content: b'Vi er n\xc3\xb8dt til at h\xc3\xa6ve ambitionerne omkring klimaet. For fremtidens skyld.'
+18:06:19: Scraping Every Record - b'https://www.facebook.com/henrikdamkristensen'
+18:06:40: PostURL https://www.facebook.com/henrikdamkristensen/posts/2152858711449903
+18:06:40: Post Date b'6/8/19, 12:48 PM'
+18:06:40: Post Content: b'S\xc3\xa5 er valget overst\xc3\xa5et, stemmerne er talt op og jeg blev genvalgt - tak!\nNu g\xc3\xa6lder det om, at f\xc3\xa5 en ny regering i Danmark med Mette Frederiksen som statsminister.'
+18:06:40: Scraping Every Record - b'https://www.facebook.com/danskerhverv/'
+18:06:49: PostURL https://www.facebook.com/danskerhverv/posts/2244752688956859
+18:06:49: Post Date b'9/2/19, 4:18 PM'
+18:06:49: Post Content: b'Var det noget med et klima-kinder\xc3\xa6g?'
+18:06:49: Scraping Every Record - b'https://www.facebook.com/thomasjensensilkeborg'
+18:07:08: PostURL https://www.facebook.com/thomasjensensilkeborg/posts/2227889207327660
+18:07:08: Post Date b'5/29/19, 5:58 PM'
+18:07:08: Post Content: b'Her i Silkeborg har jeg i dag haft bes\xc3\xb8g af Danmarks klimasosse nummer et: Mette Frederiksen \xf0\x9f\x8c\xb9\xf0\x9f\x8c\xb9\xf0\x9f\x8c\xb9'
+18:07:08: Scraping Every Record - b'https://www.facebook.com/StinusLindgreenRV/'
+18:07:20: PostURL https://www.facebook.com/StinusLindgreenRV/posts/1266170926916058
+18:07:20: Post Date b'12/7/19, 1:01 AM'
+18:07:20: Post Content: b'S\xc3\xa5dan! Der er nu lavet aftale om en klimalov.'
+18:07:20: Scraping Every Record - b'https://www.facebook.com/BentBoegsted'
+18:07:53: no more posts
+18:07:53: Scraping Every Record - b'https://www.facebook.com/lilleholt/'
+18:08:03: PostURL https://www.facebook.com/lilleholt/posts/2171142833189651
+18:08:03: Post Date b'11/12/19, 2:45 PM'
+18:08:03: Post Content: b'Hvis vi skal n\xc3\xa5 m\xc3\xa5let om 70 procent reduktion i 2030, er det vigtigt, vi afs\xc3\xa6tter midlerne. Derfor vil Venstre bruge en halv milliard ekstra p\xc3\xa5 gr\xc3\xb8nne initiativer, end hvad regeringen l\xc3\xa6gger op til i deres finanslovsforslag.'
+18:08:03: Scraping Every Record - b'https://www.facebook.com/AlexLiberalAlliance/'
+18:08:14: PostURL https://www.facebook.com/AlexLiberalAlliance/posts/1243780439163110
+18:08:14: Post Date b'12/17/19, 8:16 PM'
+18:08:14: Post Content: b'Stemningen var d\xc3\xa5rlig i dag, da vi fik svar fra finansministeriet om, at samtlige indkomstgrupper bliver fattigere som f\xc3\xb8lge af regeringens finanslov...'
+18:08:14: Scraping Every Record - b'https://www.facebook.com/IngerStojberg/'
+18:10:48: Posts > 100
+18:10:48: Scraping Every Record - b'https://www.facebook.com/damsboandersen'
+18:10:53: Not Posts page
+18:11:47: PostURL https://www.facebook.com/damsboandersen/posts/10218298235673303
+18:11:47: Post Date b'1/14/19, 9:03 PM'
+18:11:47: Post Content: b'S\xc3\xa5 er valgkampen i gang\nI dag har jeg v\xc3\xa6ret til et meget velbes\xc3\xb8gt debatm\xc3\xb8de p\xc3\xa5 Katedralskolen i Nyk\xc3\xb8bing F\nDe unge er meget optagede af klima, milj\xc3\xb8 og uddannelse og stillede meget kvalificerede sp\xc3\xb8rgsm\xc3\xa5l'
+18:11:47: Scraping Every Record - b'https://www.facebook.com/mads.fuglede/'
+18:11:55: PostURL https://www.facebook.com/mads.fuglede/posts/2447970985473216
+18:11:55: Post Date b'12/4/19, 2:36 AM'
+18:11:55: Post Content: b'\xe2\x80\x9cI de sidste to \xc3\xa5rhundreder har en gennemsnitlig svensker eller taiwaner oplevet, at de varer og produkter, der er i deres liv, er steget med en faktor 30 eller faktor 100. Alts\xc3\xa5 ikke en stigning p\xc3\xa5 30 eller 100 procent, men p\xc3\xa5 3.000 eller 10.000 procent. Tallene er et billede p\xc3\xa5 verdens gang, og hvorfor markedskr\xc3\xa6fterne er udgangspunktet for et bedre liv. Mange af de udfordringer, vi st\xc3\xa5r over for i dag, er et produkt af den ekstreme effektivitet, hvormed markedet har p\xc3\xa5virk...'
+18:11:55: Scraping Every Record - b'https://www.facebook.com/naserkhaderdk'
+18:11:58: Not Posts page
+18:12:36: PostURL https://www.facebook.com/klaus.bang.90/posts/10219116356767183?__xts__%5B0%5D=68.ARBv3PqjYZ7ZpWjOmhfu5EQDmqV2qRw1jBQVdV1GoEJUOEzHZOfqSVKSWh-idbGPwgFa6E6wso-D-O7q4B8avCWaIaUlgH9f4jZ5N6N-c5GFk4IkEOD4VjhlrmJ_m2ZKQT1oZDscT35X_F8jG1q8-WPI4egCdqVfHgv2VEF30LjLV1B2hzL8msyyljfQGK7dUXpTKcx3MibFwYYZewO5braBqcEhxIDxs1dfQExnDIeX14KLF_3UaIQTqoiyljXQDbiiQZ_FVrBd_xRWbB189dUB6g&__tn__=-R
+18:12:36: Post Date b'9/28/19, 1:34 PM'
+18:12:36: Post Content: b'Formand S\xc3\xb8ren Pape Poulsen m\xc3\xb8dt med massive klapsalver.\nFormanden igang med sin tale, flot og inspirerende - som altid.\nTo flotte valg er overst\xc3\xa5et, med en fordoblet folketingsgruppe, og bibeholdes af vores mandat i EU.\nDet er sk\xc3\xb8nt at v\xc3\xa6re konservativ - gr\xc3\xb8n lykke\xf0\x9f\x92\x9a\xf0\x9f\x92\x9a'
+18:12:36: Scraping Every Record - b'https://www.facebook.com/MarcusKnuthMF/'
+18:14:17: PostURL https://www.facebook.com/MarcusKnuthMF/posts/848945095489032
+18:14:17: Post Date b'6/1/19, 6:03 PM'
+18:14:17: Post Content: b'Vil du h\xc3\xb8re om de sjoveste og st\xc3\xb8rste \xc3\xb8jeblikke fra valgkampen 2019? S\xc3\xa5 kom til f\xc3\xa6llesspisning med Ren\xc3\xa9 Christensen (DF), Stine Pilt Olsen (C) og mig p\xc3\xa5 Hotel Saxkj\xc3\xb8bing p\xc3\xa5 mandag kl. 19.00 \xf0\x9f\x98\x8a'
+18:14:17: Scraping Every Record - b'https://www.facebook.com/aajachemnitzlarsen'
+18:14:36: PostURL https://www.facebook.com/aajachemnitzlarsen/posts/2521230497973323
+18:14:36: Post Date b'12/9/19, 4:49 PM'
+18:14:36: Post Content: b'Alt for mange af vores landsm\xc3\xa6nd ender p\xc3\xa5 gaden som hjeml\xc3\xb8se. Andelen af hjeml\xc3\xb8se gr\xc3\xb8nl\xc3\xa6ndere i Danmark er stigende. Bare de seneste to \xc3\xa5r er antallet af hjeml\xc3\xb8se gr\xc3\xb8nl\xc3\xa6ndere steget med 33% og knap 800 af vores landsm\xc3\xa6nd kommer til at tilbringe deres jul p\xc3\xa5 gaden i \xc3\xa5r.'
+18:14:36: Scraping Every Record - b'https://www.facebook.com/sfparti/'
+18:14:44: PostURL https://www.facebook.com/sfparti/posts/10157694308694246
+18:14:44: Post Date b'12/8/19, 2:39 PM'
+18:14:44: Post Content: b'Det har v\xc3\xa6ret en vild uge! \xf0\x9f\x98\x8d- vi har f\xc3\xa5et en finanslov, der igen prioriterer velf\xc3\xa6rd, klima og milj\xc3\xb8, og en klimalov, der g\xc3\xb8r Danmark til foregangsland i kampen mod klimaforandringerne \xf0\x9f\x92\xaa\nSynes du stadig det er sv\xc3\xa6rt at se at Danmark har f\xc3\xa5et et nyt politisk flertal? S\xc3\xa5 se lige med her - og del gerne de gode nyheder med en ven! \xf0\x9f\x91\x87'
+18:14:44: Scraping Every Record - b'https://www.facebook.com/julieskovsby'
+18:14:49: Not Posts page
+18:15:03: PostURL https://www.facebook.com/julieskovsby/posts/10156791294779000
+18:15:03: Post Date b'1/9/19, 2:57 PM'
+18:15:03: Post Content: b'K\xc3\xa6re regering, ikke noget med et "Lille holt", vi skal videre.'
+18:15:03: Scraping Every Record - b'https://www.facebook.com/socialdemokratietihelsingor.dk/'
+18:15:18: PostURL https://www.facebook.com/socialdemokratietihelsingor.dk/posts/371311810173668
+18:15:18: Post Date b'6/1/19, 5:39 PM'
+18:15:18: Post Content: b'https://www.facebook.com/414048915331046/posts/2182858165116770?sfns=mo'
+18:15:18: Scraping Every Record - b'https://www.facebook.com/danskindustri/'
+18:15:26: PostURL https://www.facebook.com/danskindustri/posts/2623208374398990
+18:15:26: Post Date b'12/20/19, 4:42 PM'
+18:15:26: Post Content: b'Klimapartnerskaberne er Danmarkshistoriens st\xc3\xb8rste klimabrainstorm\xf0\x9f\x8c\x8f\xf0\x9f\x92\xaa Her er 3 konkrete forslag fra virksomheder, der bidrager til partnerskabet for service, it og r\xc3\xa5dgivning\xf0\x9f\x91\x87'
+18:15:26: Scraping Every Record - b'https://www.facebook.com/radikalevenstre/'
+18:15:36: PostURL https://www.facebook.com/radikalevenstre/posts/10157652826110930
+18:15:36: Post Date b'12/18/19, 7:37 PM'
+18:15:36: Post Content: b'Tak for opbakningen i \xc3\xa5r \xf0\x9f\x99\x8c endelig er der kommet mere sund fornuft og mere hjerte i dansk politik \xe2\x9d\xa4\xef\xb8\x8f.'
+18:15:36: Scraping Every Record - b'https://www.facebook.com/alternativet.dk/'
+18:15:44: PostURL https://www.facebook.com/alternativet.dk/posts/2977599898940874
+18:15:44: Post Date b'12/26/19, 6:47 PM'
+18:15:44: Post Content: b'Ord skaber virkelighed - brug dem med omtanke \xe2\x9d\xa4\xef\xb8\x8f'
+18:15:44: Scraping Every Record - b'https://www.facebook.com/baeredygtigtlandbrug/'
+18:15:53: PostURL https://www.facebook.com/baeredygtigtlandbrug/posts/2912779248754572
+18:15:53: Post Date b'12/23/19, 11:48 AM'
+18:15:53: Post Content: b'"Vi landm\xc3\xa6nd m\xc3\xa5 indr\xc3\xb8mme: Det er virkelig fantastiske regnemaskiner, der anvendes i departementerne for at f\xc3\xa5 kv\xc3\xa6lstofregnskabet til at g\xc3\xa5 op. I nogle tilf\xc3\xa6lde skal landm\xc3\xa6nd s\xc3\xa5 efterafgr\xc3\xb8der i 30 % af deres mark, samtidig med at de skal have gr\xc3\xb8nne marker i andre 80 %. Det vil sige, at der er krav til 110 % af deres areal\xe2\x80\xa6"'
+18:15:53: Scraping Every Record - b'https://www.facebook.com/SophieLoehde/'
+18:16:49: PostURL https://www.facebook.com/SophieLoehde/posts/2262217517189913
+18:16:49: Post Date b'5/26/19, 5:30 PM'
+18:16:49: Post Content: b'S\xc3\xa5 har jeg ogs\xc3\xa5 v\xc3\xa6ret nede og stemme p\xc3\xa5 Venstre\xe2\x9c\x8c\xf0\x9f\x8f\xbb\xf0\x9f\x92\x99 Del og like, hvis du ogs\xc3\xa5 vil have et gr\xc3\xb8nnere og mere stabilt Europa!'
+18:16:49: Scraping Every Record - b'https://www.facebook.com/nicolaiwammen/'
+18:16:57: PostURL https://www.facebook.com/nicolaiwammen/posts/2506687259604675
+18:16:57: Post Date b'12/3/19, 5:45 PM'
+18:16:57: Post Content: b'Hilser p\xc3\xa5 seje unge der trodser regnen for at kr\xc3\xa6ve klimahandling af os politikere. Og jeg er stolt over at kunne fort\xc3\xa6lle, at finansloven for 2020 et vigtigt skridt i den retning:\nEn gr\xc3\xb8n fremtidsfond p\xc3\xa5 25 mia. kr. der skal investere i nye, gr\xc3\xb8nne l\xc3\xb8sninger og teknologier, s\xc3\xa5 vi kan n\xc3\xa5 vores ambiti\xc3\xb8se klimam\xc3\xa5l \xe2\x80\x93 og skabe gode jobs samtidig. Udtagning af landbrugsjord, s\xc3\xa5 vi reducerer udslip af klimagasser. Mere ur\xc3\xb8rt skov. Forh\xc3\xb8jet klimabistand og 1 milliard til gr\xc3\xb8n forskning.\nVi ved godt, vi ikke i m\xc3\xa5l med denne finanslov. Men vi har taget et meget vigtigt skridt. Del gerne hvis du er enig \xf0\x9f\x98\x8a'
+18:16:57: Scraping Every Record - b'https://www.facebook.com/ClausHjortFrederiksen/'
+18:17:23: PostURL https://www.facebook.com/ClausHjortFrederiksen/posts/2435620366672425
+18:17:23: Post Date b'5/29/19, 1:51 PM'
+18:17:23: Post Content: b'FV DAG 23: HENT MIN BOG GRATIS ONLINE\n....jeg har skrevet en lille bog om, hvad jeg st\xc3\xa5r for, og hvad jeg gerne vil arbejde for, hvis de nordsj\xc3\xa6llandske v\xc3\xa6lgere giver mig lov d. 5. juni.\n....men du kan selvf\xc3\xb8lgelig ogs\xc3\xa5 f\xc3\xa5 dit eget fysiske eksemplar, n\xc3\xa5r vi har g\xc3\xa5gadeaktion l\xc3\xb8rdag eller ved en af de debatter jeg deltager i \xf0\x9f\x98\x80'
+18:17:23: Scraping Every Record - b'https://www.facebook.com/TrineBramsen/'
+18:17:32: PostURL https://www.facebook.com/TrineBramsen/posts/2067007316736304
+18:17:32: Post Date b'12/18/19, 8:50 PM'
+18:17:32: Post Content: b'Fantastiske finanslov. Og en lang dag i Folketinget. Men det er det v\xc3\xa6rd; vi stemmer om flere h\xc3\xa6nder i daginstitutioner, bedre klima, psykiatri og uddannelser og meget mere der styrker vores velf\xc3\xa6rdssamfund \xf0\x9f\x92\xaa'
+18:17:32: Scraping Every Record - b'https://www.facebook.com/BertelHaarder/'
+18:18:03: PostURL https://www.facebook.com/BertelHaarder/posts/2852683664761088
+18:18:03: Post Date b'6/22/19, 1:18 AM'
+18:18:03: Post Content: b'\xc3\x85rets l\xc3\xa6ngste dag - og Gr\xc3\xb8nlands nationaldag. Denne gang vendte jeg flaget rigtigt!'
+18:18:03: Scraping Every Record - b'https://www.facebook.com/SorenSondergaard.dk/'
+18:18:13: PostURL https://www.facebook.com/SorenSondergaard.dk/posts/10156890996811569
+18:18:13: Post Date b'12/3/19, 1:32 AM'
+18:18:13: Post Content: b'For f\xc3\xb8rste gang i rigtig mange \xc3\xa5r er der indg\xc3\xa5et en finanslov, som tr\xc3\xa6kker i den rigtige retning p\xc3\xa5 mange vigtige omr\xc3\xa5der: klima, velf\xc3\xa6rd, psykiatri, b\xc3\xb8rn, uddannelse .. og kamp mod social dumping. Som gammel kulturordf\xc3\xb8rer er jeg ogs\xc3\xa5 rigtig glad for, at de forhadte \xc3\xa5rlige 2%-nedsk\xc3\xa6ringer p\xc3\xa5 kulturomr\xc3\xa5det nu er historie. Selvf\xc3\xb8lgelig er det ikke den finanslov, som Enhedslisten ville have lavet, hvis vi havde haft 90 mandater. Det er kun en begyndelse ... men det er en god begyndelse!'
+18:18:13: Scraping Every Record - b'https://www.facebook.com/ReneChristensenDF'
+18:18:32: PostURL https://www.facebook.com/ReneChristensenDF/posts/520265635463319
+18:18:32: Post Date b'11/2/19, 12:27 PM'
+18:18:32: Post Content: b'Ja.....hvis vi skal bruge gr\xc3\xb8n energi til alt, s\xc3\xa5 bliver vi n\xc3\xb8d til at forske og indf\xc3\xb8re nye teknologier. Det kr\xc3\xa6ver finansiering og her er vores bud. Hvor vil Socialdemokraterne og de andre r\xc3\xb8de finde dem?'
+18:18:32: Scraping Every Record - b'https://www.facebook.com/sikandar.alternativet'
+18:18:37: Not Posts page
+18:18:49: PostURL https://www.facebook.com/sikandar.alternativet/posts/10158135362789415
+18:18:49: Post Date b'12/6/19, 12:02 AM'
+18:18:49: Post Content: b'I aften fors\xc3\xa6tter forhandlingerne om boligreguleringslovens paragraf 5,2 i boligministeriet. Alternativet har tre prioriteter i forhandlingerne: 1. Lukke hullet for kapitalfonde. 2. Gr\xc3\xb8nne bygninger og 3. Beskytte de danske andelshavere.'
+18:18:49: Scraping Every Record - b'https://www.facebook.com/ElleniFolketinget/'
+18:19:07: PostURL https://www.facebook.com/ElleniFolketinget/posts/2320370334713774
+18:19:07: Post Date b'6/3/19, 6:55 PM'
+18:19:07: Post Content: b'Fandt en firkl\xc3\xb8ver p\xc3\xa5 marken da milj\xc3\xb8 og f\xc3\xb8devareminister Jakob Ellemann-Jensen tidligere i dag indviede s\xc3\xb8nderjyllands f\xc3\xb8rste mini v\xc3\xa5domr\xc3\xa5de. H\xc3\xa5ber den bringer held til resten af valgkampen\xf0\x9f\x8d\x80'
+18:19:07: Scraping Every Record - b'https://www.facebook.com/jakob.solvhoj'
+18:19:11: Not Posts page
+18:19:14: PostURL https://www.facebook.com/jakob.solvhoj/posts/2564203546960996
+18:19:14: Post Date b'12/3/19, 1:38 AM'
+18:19:14: Post Content: b'S\xc3\xa5 er der en finanslovsaftale p\xc3\xa5 plads. Der bliver mange flere penge til Danmarks Gr\xc3\xb8nne Investeringsfond. Der bliver flere sengepladser, en styrket akutindsats og mere personale i psykiatrien. Der kommer mange flere voksne i daginstitutionerne. Folkeskolen f\xc3\xa5r et \xc3\xb8konomisk l\xc3\xb8ft, der kan bidrage til at bane vej for en \xe2\x80\x9dNy Start\xe2\x80\x9d i folkeskolen, og det lykkedes ogs\xc3\xa5 at f\xc3\xa5 afsat ekstra midler til handicapomr\xc3\xa5det. Det er en finanslov, der kan m\xc3\xa6rkes p\xc3\xa5 velf\xc3\xa6rden og m\xc3\xa5les p\xc3\xa5 klimaregnskabet!'
+18:19:14: Scraping Every Record - b'https://www.facebook.com/rasmus.prehn/'
+18:19:22: PostURL https://www.facebook.com/rasmus.prehn/posts/1317057828486282
+18:19:22: Post Date b'12/26/19, 11:58 AM'
+18:19:23: Post Content: b'Danmark arbejder for en gr\xc3\xb8n verden med milj\xc3\xb8et i fokus\xf0\x9f\x8c\x8d\xf0\x9f\x8c\xb9\xf0\x9f\x87\xa9\xf0\x9f\x87\xb0 Det har jeg skrevet med milj\xc3\xb8minister Lea Wermelin om i g\xc3\xa5rsdagens Nordjyske!\nL\xc3\xa6s med her\xf0\x9f\xa4\x93'
+18:19:23: Scraping Every Record - b'https://www.facebook.com/NewBlack'
+18:19:26: Not Posts page
+18:19:47: no more posts
+18:19:47: Scraping Every Record - b'https://www.facebook.com/louise.elholm/'
+18:20:02: PostURL https://www.facebook.com/louise.elholm/posts/2553912174705549
+18:20:02: Post Date b'12/5/19, 11:56 AM'
+18:20:02: Post Content: b'Socialdemokratiet lemper udl\xc3\xa6ndingepolitikken og s\xc3\xa6tter bremsen for udviklingen af velstand (ved at begr\xc3\xa6nse v\xc3\xa6kstmulighederne for danske virksomheder)'
+18:20:02: Scraping Every Record - b'https://www.facebook.com/DennisFlydtkjaer'
+18:20:22: PostURL https://www.facebook.com/DennisFlydtkjaer/posts/1204595956375993
+18:20:22: Post Date b'6/30/19, 1:02 PM'
+18:20:22: Post Content: b'Super god nyhed, at de kystn\xc3\xa6re vindm\xc3\xb8ller i parken Vesterhav syd nu flyttes l\xc3\xa6ngere ud p\xc3\xa5 havet \xf0\x9f\x91\x8d\xf0\x9f\x8f\xbb'
+18:20:22: Scraping Every Record - b'https://www.facebook.com/MFJesper/'
+18:20:29: PostURL https://www.facebook.com/MFJesper/posts/2598568470261777
+18:20:29: Post Date b'12/19/19, 2:05 PM'
+18:20:29: Post Content: b'Fistbump med finansminister Wammen i folketingssalen i dag. For finansloven er nu stemt igennem - og den nye kurs om prioritering af velf\xc3\xa6rd og gr\xc3\xb8n omstilling tager fart!'
+18:20:29: Scraping Every Record - b'https://www.facebook.com/sorenespersen/'
+18:20:49: PostURL https://www.facebook.com/sorenespersen/posts/2420184264866014
+18:20:49: Post Date b'11/15/19, 9:38 PM'
+18:20:49: Post Content is missing
+18:20:49: Scraping Every Record - b'https://www.facebook.com/ThDanielsen/'
+18:20:58: PostURL https://www.facebook.com/ThDanielsen/posts/1304969303038171
+18:20:58: Post Date b'12/7/19, 1:13 AM'
+18:20:58: Post Content: b'Netop f\xc3\xa6rdige med forhandlingerne om en klimalov, som Venstre er meget begejstret for udfaldet af. Nu g\xc3\xa5r turen hjem til Vestjylland \xf0\x9f\x91\x8d\xf0\x9f\x8f\xbb Godnat Danmark \xf0\x9f\x87\xa9\xf0\x9f\x87\xb0'
+18:20:58: Scraping Every Record - b'https://www.facebook.com/flemmingmoellermortensen'
+18:21:02: Not Posts page
+18:21:05: PostURL https://www.facebook.com/flemmingmoellermortensen/posts/10220744583987393?__xts__%5B0%5D=68.ARDOGI5m-HvT-66qgCvStKzgzTijjKYyX8Ktc9YDvKsjOC6GemQxT4j7QZcCW_wd7kZbe39XtlNardahnUFsILdn91jVPj1qJ57TkC_Mk4gW_2JHVOwk6tfmseQYh0GTNaeiQFltTg61M0cC55mqM3QFvhRha6w7wLHLxzrd1EOafA9tqSR-27kxY1QyNlyCLBeqMHI56uyKUn_FWRa4x6j7nKpbV4eIfqoio_eHXOBLxRPzqYO_jFbq1vDl9rUWKfU9-0W3iR2ASk2YeyG6whQNl_31Kygq-JeEyg0vnYFe0vXJf3MSWsvfq-CzhsD8INmgKSimHELQC0iE&__tn__=-R
+18:21:05: Post Date b'12/8/19, 1:11 AM'
+18:21:06: Post Content: b'S\xc3\xa5dan \xf0\x9f\x91\x8d\nVi gik til valg p\xc3\xa5 at indf\xc3\xb8re en forpligtende klimalov.\nNu leverer vi.\nDanmark skal g\xc3\xa5 forrest i den gr\xc3\xb8nne omstilling \xf0\x9f\x92\x9a'
+18:21:06: Scraping Every Record - b'https://www.facebook.com/nielsthdahl'
+18:21:09: Not Posts page
+18:24:03: Posts > 100
+18:24:03: Scraping Every Record - b'https://www.facebook.com/pernillerosenkrantz/'
+18:24:13: PostURL https://www.facebook.com/pernillerosenkrantz/posts/10159228677051038
+18:24:13: Post Date b'12/7/19, 2:37 AM'
+18:24:13: Post Content: b'Dagens bedste nyhed: Bred aftale om klimalov p\xc3\xa5 plads \xf0\x9f\x8d\x80\xf0\x9f\x8c\xbf'
+18:24:13: Scraping Every Record - b'https://www.facebook.com/MortenMesserschmidt/'
+18:24:34: no more posts
+18:24:34: Scraping Every Record - b'https://www.facebook.com/karen.ellemann/'
+18:24:51: no more posts
+18:24:51: Scraping Every Record - b'https://www.facebook.com/PrebenBangHenriksen/'
+18:25:09: no more posts
+18:25:09: Scraping Every Record - b'https://www.facebook.com/annehonoreoestergaard'
+18:25:32: no more posts
+18:25:32: Scraping Every Record - b'https://www.facebook.com/birgitte.vind.1/'
+18:25:41: PostURL https://www.facebook.com/birgitte.vind.1/posts/581255279108791
+18:25:41: Post Date b'12/19/19, 3:16 PM'
+18:25:41: Post Content: b''
+18:25:41: Scraping Every Record - b'https://www.facebook.com/phummelgaard/'
+18:25:59: no more posts
+18:25:59: Scraping Every Record - b'https://www.facebook.com/stemperlarsen/'
+18:26:16: no more posts
+18:26:16: Scraping Every Record - b'https://www.facebook.com/dagbladetinformation/'
+18:26:24: PostURL https://www.facebook.com/dagbladetinformation/posts/10159091939162646
+18:26:24: Post Date b'12/27/19, 4:04 PM'
+18:26:24: Post Content: b'\xc2\xbbVi skal ikke blot have verdens bedste klimalov. Vi skal som samfund g\xc3\xa5 foran ved at skabe verdens f\xc3\xb8rende klimaborgerting. Til inspiration for verden, til gavn for demokratiets fornyelse og ikke mindst til udvikling af solide borgerdrevne klimaforslag.\xc2\xab'
+18:26:24: Scraping Every Record - b'https://www.facebook.com/LBMathiesen/'
+18:26:41: no more posts
+18:26:41: Scraping Every Record - b'https://www.facebook.com/mogensjensen/'
+18:26:56: no more posts
+18:26:56: Scraping Every Record - b'https://www.facebook.com/venstre.dk/'
+18:27:06: PostURL https://www.facebook.com/venstre.dk/posts/10157674615893830
+18:27:06: Post Date b'12/26/19, 1:04 PM'
+18:27:06: Post Content: b''
+18:27:06: Scraping Every Record - b'https://www.facebook.com/nyeborgerlige/'
+18:27:17: PostURL https://www.facebook.com/nyeborgerlige/posts/1599408176867399
+18:27:17: Post Date b'12/27/19, 2:30 PM'
+18:27:17: Post Content: b'I dette f\xc3\xb8rste afsnit af Fakta & Fornuft bringer Peter Seier Christensen fornuften tilbage i klimadebatten.'
+18:27:17: Scraping Every Record - b'https://www.facebook.com/janjohansensocialdemokrat'
+18:27:27: PostURL https://www.facebook.com/janjohansensocialdemokrat/posts/2048790798576077
+18:27:27: Post Date b'6/8/19, 11:48 AM'
+18:27:27: Post Content: b'Ja, jeg er klar til en t\xc3\xb8rn mere i Folketinget. Det var dejligt at v\xc3\xa6re tilbage p\xc3\xa5 borgen i g\xc3\xa5r til det f\xc3\xb8rste m\xc3\xb8de med den nye socialdemokratiske gruppe. Der er nok at tage fat p\xc3\xa5 for en ny regering. Vi skal have stoppet den voksende ulighed i samfundet, lavet en v\xc3\xa6rdig tilbagetr\xc3\xa6kning fra arbejdsmarkedet og s\xc3\xa5 skal vi have gjort noget ved klimaet. Jeg er i hvert fald klar til at hoppe i arbejdst\xc3\xb8jet og tage fat igen.\xf0\x9f\x8c\xb9'
+18:27:27: Scraping Every Record - b'http://www.facebook.com/rasmus.nordqvist'
+18:27:36: PostURL http://www.facebook.com/rasmus.nordqvist/posts/1277838919090008
+18:27:36: Post Date b'12/19/19, 4:55 PM'
+18:27:36: Post Content: b'Jeg stiller op som politisk leder for Alternativet'
+18:27:36: Scraping Every Record - b'https://www.facebook.com/CamFabricius/'
+18:27:46: PostURL https://www.facebook.com/CamFabricius/posts/753755958462111
+18:27:46: Post Date b'12/11/19, 12:05 AM'
+18:27:46: Post Content: b'Skulle vi ikke give Esbjerg og Gr\xc3\xb8nland en h\xc3\xa5nd?\nFor vi har behov for at f\xc3\xa5 fokus p\xc3\xa5, hvordan mennesker med gr\xc3\xb8nlandsk baggrund kan komme i arbejde.\nVi ved, at der desv\xc3\xa6rre er rigtig mange, som st\xc3\xa5r udenfor job og uddannelse.'
+18:27:46: Scraping Every Record - b'https://www.facebook.com/dsu1920/'
+18:27:57: PostURL https://www.facebook.com/dsu1920/posts/10156495298176822
+18:27:57: Post Date b'12/9/19, 5:23 PM'
+18:27:57: Post Content: b'I DSU er vi stolte af, at regeringen s\xc3\xa6tter en klar kurs p\xc3\xa5 det gr\xc3\xb8nne omr\xc3\xa5de med en historisk ambiti\xc3\xb8s klimalov! Danmark skal v\xc3\xa6re et gr\xc3\xb8nt foregangsland, og vi gl\xc3\xa6der os til at finde konkrete l\xc3\xb8sninger p\xc3\xa5 den gr\xc3\xb8nne omstilling sammen med regeringen! #klimasosser \xf0\x9f\x8d\x83\xf0\x9f\x90\x9b\xf0\x9f\x8c\xbf'
+18:27:57: Scraping Every Record - b'https://www.facebook.com/rasmusjarlov'
+18:28:02: Not Posts page
+18:28:08: no more posts
+18:28:08: Scraping Every Record - b'https://www.facebook.com/mfjacobjensen/'
+18:28:23: no more posts
+18:28:23: Scraping Every Record - b'https://www.facebook.com/Altingetdk'
+18:28:31: PostURL https://www.facebook.com/Altingetdk/posts/10157767265763187
+18:28:31: Post Date b'12/27/19, 1:57 PM'
+18:28:31: Post Content: b'Regering afviser at offentligg\xc3\xb8re de \xc3\xb8konomiske beregningerne bag klimaloven, som blev aftalt tidligere p\xc3\xa5 m\xc3\xa5neden. Og s\xc3\xa5 vil flere partier se p\xc3\xa5, om man kan sk\xc3\xa6rpe straffene for embedsmisbrug. F\xc3\xa5 dit overblik her.'
+18:28:31: Scraping Every Record - b'https://www.facebook.com/peder.hvelplund'
+18:28:37: Not Posts page
+18:28:43: no more posts
+18:28:43: Scraping Every Record - b'https://www.facebook.com/Xorlahav'
+18:28:48: Not Posts page
+18:28:52: no more posts
+18:28:52: Scraping Every Record - b'https://www.facebook.com/VictoriaRisbjergVelasquez/'
+18:29:14: no more posts
+18:29:14: Scraping Every Record - b'https://www.facebook.com/Ckissmeyer/'
+18:29:22: PostURL https://www.facebook.com/Ckissmeyer/posts/2547060952280747
+18:29:22: Post Date b'11/27/19, 10:56 PM'
+18:29:22: Post Content: b'Ugen er nu godt igang.\nMandag bes\xc3\xb8gte jeg staldinventarfabrikken Jyden Bur, hvor jeg b\xc3\xa5de s\xc3\xa5 virksomheden og m\xc3\xb8dte den nordvestjyske erhvervsgruppe, der k\xc3\xa6mper for f\xc3\xa5 lukket motorvejshullerne ved Herning - jeg st\xc3\xb8tter til fulde deres \xc3\xb8nske. Mandag aften Venstrem\xc3\xb8de hjemme i Ikast, hvor vi bl.a. fik den gode historie om ISI (Idr\xc3\xa6tsskolerne i Ikast) og hele sportsmilj\xc3\xb8et i Ikast.'
+18:29:22: Scraping Every Record - b'https://www.facebook.com/stemlauritzen/'
+18:29:40: no more posts
+18:29:40: Scraping Every Record - b'https://www.facebook.com/jeppe.bruus'
+18:29:48: PostURL https://www.facebook.com/jeppe.bruus/posts/1422527671257224
+18:29:48: Post Date b'12/7/19, 5:04 PM'
+18:29:48: Post Content: b'\xf0\x9f\x92\xaa\xe2\x98\x98\xef\xb8\x8f\xe2\x9d\xa4\xef\xb8\x8f S\xc3\xa5 fik Danmark vores f\xc3\xb8rste klimalov. Der g\xc3\xb8r Danmark til et af de lande, der g\xc3\xa5r allerforrest for at sikre den gr\xc3\xb8nne omstilling. Og stort set alle partier i Folketinget er med. Utrolig st\xc3\xa6rkt!'
+18:29:48: Scraping Every Record - b'https://www.facebook.com/klimaministeriet'
+18:29:55: PostURL https://www.facebook.com/klimaministeriet/posts/2535718110040623
+18:29:55: Post Date b'12/19/19, 12:51 AM'
+18:29:55: Post Content: b''
+18:29:55: Scraping Every Record - b'https://www.facebook.com/KatarinaAmmitzboll/'
+18:30:03: PostURL https://www.facebook.com/KatarinaAmmitzboll/posts/2501320660111418
+18:30:03: Post Date b'12/24/19, 2:54 AM'
+18:30:03: Post Content: b'Juleroen er ved at s\xc3\xa6nke sig efter et fantastisk begivenhedsrigt \xc3\xa5r, som nyvalgt MF for Konservative for Frederiksberg og Hovedstaden.'
+18:30:03: Scraping Every Record - b'https://www.facebook.com/danieltoftjakobsen'
+18:30:16: PostURL https://www.facebook.com/danieltoftjakobsen/posts/2360228277549952
+18:30:16: Post Date b'9/6/19, 9:56 AM'
+18:30:16: Post Content: b'Gode nyheder til folket :)'
+18:30:16: Scraping Every Record - b'https://www.facebook.com/Troels.Ravn.A'
+18:30:25: PostURL https://www.facebook.com/Troels.Ravn.A/posts/2911709228862464
+18:30:25: Post Date b'12/18/19, 2:26 PM'
+18:30:25: Post Content: b'Skattelettelse eller velf\xc3\xa6rd\nLige nu p\xc3\xa5 Borgen - debat om Finanslov 2020'
+18:30:25: Scraping Every Record - b'https://www.facebook.com/Konservative/'
+18:30:41: PostURL https://www.facebook.com/Konservative/posts/10156639763125913
+18:30:41: Post Date b'12/7/19, 10:00 AM'
+18:30:41: Post Content: b'Gode, konservative aftryk p\xc3\xa5 klimaloven \xf0\x9f\x92\x9a\xe2\x9d\xa4\xef\xb8\x8f'
+18:30:41: Scraping Every Record - b'https://www.facebook.com/people/Pernille-Vermund/740127218'
+18:30:45: Not Posts page
+18:31:05: PostURL https://www.facebook.com/people/Pernille-Vermund/740127218/posts/10156887946442219
+18:31:05: Post Date b'11/17/19, 4:31 PM'
+18:31:05: Post Content: b'Bj\xc3\xb8rn Lomborg forklarer her, hvorfor klimaloven i bedste fald er ren populisme, og i v\xc3\xa6rste fald vil g\xc3\xb8re stor skade p\xc3\xa5 vores samfund.'
+18:31:05: Scraping Every Record - b'https://www.facebook.com/niels.f.hansen.7'
+18:31:09: Not Posts page
+18:31:12: PostURL https://www.facebook.com/niels.f.hansen.7/posts/10219287851805285
+18:31:12: Post Date b'9/17/19, 10:11 AM'
+18:31:12: Post Content: b'Man beh\xc3\xb8ver ikke at v\xc3\xa6re p\xc3\xa5 r\xc3\xb8d stue, for at holde af klimaet. Vi var der i 2014, og er der stadig. der er 2 veje mod klimaforandringer: Mindsk v\xc3\xa6ksten og indskr\xc3\xa6nk den personlige frihed ELLER via reformer, vedvarende energi og skattelettelser. Vi st\xc3\xb8tter 70%-m\xc3\xa5ls\xc3\xa6tningen og kr\xc3\xa6ver det IKKE koster arbejdspladser og \xc3\xb8delagt v\xc3\xa6kst.'
+18:31:12: Scraping Every Record - b'https://www.facebook.com/jan.e.joergensen/'
+18:31:40: PostURL https://www.facebook.com/jan.e.joergensen/posts/700899440398786
+18:31:40: Post Date b'12/3/19, 2:04 PM'
+18:31:40: Post Content: b'Det Lars siger'
+18:31:40: Scraping Every Record - b'https://www.facebook.com/karstenhoenge'
+18:31:48: PostURL https://www.facebook.com/karstenhoenge/posts/3395029583904823
+18:31:48: Post Date b'12/24/19, 1:13 AM'
+18:31:48: Post Content: b'USA\xe2\x80\x99s ambassad\xc3\xb8r i Danmark, Carla Sands, g\xc3\xa5r langt ud over gr\xc3\xa6nserne for diplomatisk opf\xc3\xb8rsel.\nB\xc3\xa5de form og indhold er som Trump i forkl\xc3\xa6dning.\nDen vigtigste oprustning og kamp i Arktis skal ikke v\xc3\xa6re milit\xc3\xa6r, men mod klimaforandringerne.'
+18:31:48: Scraping Every Record - b'https://www.facebook.com/akimatilda'
+18:32:02: PostURL https://www.facebook.com/akimatilda/posts/2391496774501119
+18:32:02: Post Date b'11/6/19, 1:32 AM'
+18:32:02: Post Content: b'Ullumi TV2 News-imiit nunatta nunanut allanut attaveqarsinnaanera, ilaatigullu tamassuminnga politikkerit allat ajorinninnerat pillugu apersorneqarnera aana takusinnaavarsi.'
+18:32:02: Scraping Every Record - b'https://www.facebook.com/ullatoernaes/'
+18:32:17: PostURL https://www.facebook.com/ullatoernaes/posts/2517665495133583
+18:32:17: Post Date b'11/12/19, 9:36 PM'
+18:32:17: Post Content: b'Vi har i Venstre i dag pr\xc3\xa6senteret vores bud p\xc3\xa5 finansloven for 2020. Vi s\xc3\xa6tter en halv milliard mere af til gr\xc3\xb8n omstilling, end regeringen g\xc3\xb8r i sit finanslovsforslag. Vi investerer samtidig i velf\xc3\xa6rd. Uden at h\xc3\xa6ve skatterne for almindelige h\xc3\xa5rdtarbejdende danskere eller for gode danske, familieejede virksomheder, som skaber v\xc3\xa6kst og arbejdspladser. \xf0\x9f\x99\x8c\xf0\x9f\x98\x8a'
+18:32:17: Scraping Every Record - b'https://www.facebook.com/RosaLund.dk/'
+18:32:32: PostURL https://www.facebook.com/RosaLund.dk/posts/2899243613453388
+18:32:32: Post Date b'12/7/19, 2:33 AM'
+18:32:32: Post Content: b'Mens du var til julefrokost forhandlede Mai Villadsen og Pernille Skipper en klimalov i hus!'
+18:32:32: Scraping Every Record - b'https://www.facebook.com/ekstrabladet/'
+18:32:51: PostURL https://www.facebook.com/ekstrabladet/posts/10157171299788520
+18:32:51: Post Date b'12/27/19, 12:24 AM'
+18:32:51: Post Content: b'Ikke alle er glade for Jonathan Spangs seneste comedyshow, hvor han blandt andet tager klimakrisen under k\xc3\xa6rlig behandling.'
+18:32:51: Scraping Every Record - b'https://www.facebook.com/ida.auken/'
+18:32:58: PostURL https://www.facebook.com/ida.auken/posts/10157525298377199
+18:32:58: Post Date b'12/17/19, 5:06 PM'
+18:32:58: Post Content: b'\xc3\x85rets ord i Sverige i 2019 var "kom\xc3\xa6lk". M\xc3\xa6lk i kaffen er med andre ord ikke, hvad det har v\xc3\xa6ret. Flere og flere steder bliver man spurgt, om man \xc3\xb8nsker havrem\xc3\xa6lk, sojam\xc3\xa6lk eller ja... kom\xc3\xa6lk. S\xc3\xa5 kan man som landmand selvf\xc3\xb8lgelig godt s\xc3\xa6tte sig ned og klappe sig p\xc3\xa5 l\xc3\xa5rene af grin over alle de veganertyper, der springer ud i byerne. Men man kunne ogs\xc3\xa5 kigge lidt n\xc3\xa6rmere p\xc3\xa5, hvad det er for en udvikling, der er i gang. USA\'s st\xc3\xb8rste m\xc3\xa6lkeproducent gik konkurs for et par uger si...'
+18:32:58: Scraping Every Record - b'https://www.facebook.com/olebirkolesen'
+18:33:01: Not Posts page
+18:33:12: PostURL https://www.facebook.com/olebirkolesen/posts/674081813097611
+18:33:12: Post Date b'5/7/19, 4:07 PM'
+18:33:12: Post Content: b'S\xc3\xa5 er valget udskrevet. Her er fire centrale m\xc3\xa6rkesager fra mig til v\xc3\xa6lgerne i \xc3\x98stjylland. Lad os f\xc3\xa5 en god og sober valgkamp, hvor vi diskuterer politiske l\xc3\xb8sninger og visioner!'
+18:33:12: Scraping Every Record - b'https://www.facebook.com/StemMalteLarsen'
+18:33:19: PostURL https://www.facebook.com/StemMalteLarsen/posts/2763136570435828
+18:33:19: Post Date b'12/16/19, 11:29 PM'
+18:33:20: Post Content: b''
+18:33:20: Scraping Every Record - b'https://www.facebook.com/BirgitteBergmanPolitiker/'
+18:33:27: PostURL https://www.facebook.com/BirgitteBergmanPolitiker/posts/594837357939494
+18:33:27: Post Date b'12/22/19, 9:44 PM'
+18:33:27: Post Content: b'Det skal v\xc3\xa6re mere attraktivt at starte som selvst\xc3\xa6ndig \xf0\x9f\x91\x8f'
+18:33:27: Scraping Every Record - b'https://www.facebook.com/RVolldag/'
+18:33:35: PostURL https://www.facebook.com/RVolldag/posts/1356587904524257
+18:33:35: Post Date b'12/17/19, 3:30 PM'
+18:33:35: Post Content: b'CHOKERENDE!\nNej, vi har IKKE 108.000 hektar lavbundsjorde i Danmark, vi har i stedet 171.000 hektar. Det er langt mere #CO2 udledning end vi tidligere har regnet med. N\xc3\xa6rmere bestemt 1,6 millioner ton, som svarer til 3,2 procent af det samlede udledning i #Danmark!\nNu haster det endnu mere, at f\xc3\xa5 udtaget lavbundsjorde til natur. S\xc3\xa5 lad os f\xc3\xa5 lagt nogle seri\xc3\xb8se og ambiti\xc3\xb8se sektorm\xc3\xa5l for #landbruget ind i de kommende #klimahandlingsplaner NU!\nGodt gravearbejde Zenia Stampe !\n#dkpol #dkgreen'
+18:33:35: Scraping Every Record - b'https://www.facebook.com/evakjerhansen/'
+18:34:00: PostURL https://www.facebook.com/evakjerhansen/posts/1235037169993880
+18:34:00: Post Date b'6/26/19, 7:17 PM'
+18:34:00: Post Content: b'Vi skal have en stram udl\xc3\xa6ndingepolitik, og med den nye aftale mellem de r\xc3\xb8de partier er det blevet tydeligt, at man kun kan f\xc3\xa5 s\xc3\xa5dan en i bl\xc3\xa5 blok.'
+18:34:00: Scraping Every Record - b'https://www.facebook.com/peterseierchristensen/'
+18:34:10: PostURL https://www.facebook.com/peterseierchristensen/posts/2555217194592065
+18:34:10: Post Date b'12/26/19, 1:10 PM'
+18:34:10: Post Content: b'Hvis nogen skulle v\xc3\xa6re i tvivl om Venstres politik, s\xc3\xa5 forklarer Jakob Ellemann her, at der ikke bliver tale om at s\xc3\xa6nke skatten. Pengene skal istedet bruges bla. p\xc3\xa5 klimaet. Hvis du tror, at klimam\xc3\xa5ls\xc3\xa6tningen ikke kommer til at koste, kan du godt tro om igen. Bj\xc3\xb8rn Lomborg ansl\xc3\xa5r prisen til omkring 840.000.000.000 kr for at s\xc3\xa6nke temperaturen med 0,0001 grader C.'
+18:34:10: Scraping Every Record - b'https://www.facebook.com/stem.anne.valentina/'
+18:34:18: PostURL https://www.facebook.com/stem.anne.valentina/posts/2232741170359573
+18:34:18: Post Date b'12/2/19, 11:30 AM'
+18:34:18: Post Content: b'Frys afgifterne p\xc3\xa5 elbiler fast p\xc3\xa5 2019-niveau indtil, Eldrup-udvalget kommer med deres anbefalinger til en gr\xc3\xb8nnere afgiftsmodel for personbilerne i Danmark, lyder det nu helt uventet fra Venstre, Danmarks Liberale Parti.. \xf0\x9f\x9a\x97\xe2\x99\xbb\xef\xb8\x8f\xe2\x81\x89\xef\xb8\x8f'
+18:34:18: Scraping Every Record - b'https://www.facebook.com/hans.skibby/'
+18:34:47: PostURL https://www.facebook.com/hans.skibby/posts/1604011246407192
+18:34:47: Post Date b'11/12/19, 9:34 PM'
+18:34:47: Post Content: b''
+18:34:47: Scraping Every Record - b'https://www.facebook.com/rasmus.helveg.petersen'
+18:34:53: PostURL https://www.facebook.com/rasmus.helveg.petersen/posts/2521360151519302
+18:34:53: Post Date b'12/3/19, 8:47 PM'
+18:34:53: Post Content: b'Med finansloven er vi kommet nogle gode skridt p\xc3\xa5 vejen. Det har v\xc3\xa6ret vigtigt for mig, at der g\xc3\xb8res en indsats for at forebygge hjeml\xc3\xb8shed blandt tidligere anbragte unge, som i dag fylder skr\xc3\xa6mmende meget i gruppen af unge hjeml\xc3\xb8se. Med finansloven har vi sat 25 millioner kroner af til indsatser, som kan hj\xc3\xa6lpe tidligere anbragte unge videre til egen bolig.'
+18:34:53: Scraping Every Record - b'https://www.facebook.com/anni.matthiesen.3'
+18:34:57: Not Posts page
+18:35:58: PostURL https://www.facebook.com/anni.matthiesen.3/posts/10218884029275954
+18:35:58: Post Date b'5/27/19, 4:45 PM'
+18:35:58: Post Content is missing
+18:35:58: Scraping Every Record - b'https://www.facebook.com/kronborg.esbjerg/'
+18:36:11: PostURL https://www.facebook.com/kronborg.esbjerg/posts/2566681623573626
+18:36:11: Post Date b'12/10/19, 2:49 PM'
+18:36:11: Post Content: b'Jeg er rigtig glad for, at der gives en hj\xc3\xa6lpende h\xc3\xa5nd til Esbjergs ledige gr\xc3\xb8nl\xc3\xa6ndere. Det er en gruppe borgere, som vi p\xc3\xa5 ingen m\xc3\xa5de m\xc3\xa5 glemme. Jeg har i det daglige en god dialog med Aki-Matilda H\xc3\xb8egh-Dam og Peter Hummelgaard \xf0\x9f\x8c\xb9'
+18:36:11: Scraping Every Record - b'https://www.facebook.com/Marlene-Ambo-Rasmussen-759821337497406/'
+18:36:24: PostURL https://www.facebook.com/Marlene-Ambo-Rasmussen-759821337497406/posts/2058088647670662
+18:36:24: Post Date b'11/8/19, 7:11 PM'
+18:36:24: Post Content: b'Har brugt dagen i Kerteminde til Gr\xc3\xb8nt Topm\xc3\xb8de\xf0\x9f\x8c\xbf\xf0\x9f\x94\xa8\xf0\x9f\x94\xac\xf0\x9f\x93\x89\nDog ikke - som billedet m\xc3\xa5ske indikerer i en skov, men p\xc3\xa5 smukke Lundsgaard Gods.\nJeg valgte workshoppen \xe2\x80\x9cb\xc3\xa6redygtigt byggeri\xe2\x80\x9d og det var sp\xc3\xa6ndende at h\xc3\xb8re fra Erhvervslivet - hvordan vi kommer videre med mere b\xc3\xa6redygtighed og med klimapolitikken.\nUden v\xc3\xa6kst-tab og tab af konkurrenceevne.'
+18:36:24: Scraping Every Record - b'https://www.facebook.com/stemhalsboe'
+18:36:33: PostURL https://www.facebook.com/stemhalsboe/posts/3146014862082140
+18:36:33: Post Date b'12/10/19, 3:25 PM'
+18:36:33: Post Content: b'Danmark er igen verdensf\xc3\xb8rende #klima'
+18:36:33: Scraping Every Record - b'https://www.facebook.com/folketingskandidata'
+18:36:41: PostURL https://www.facebook.com/folketingskandidata/posts/2546017605618367
+18:36:41: Post Date b'12/10/19, 11:29 PM'
+18:36:41: Post Content: b'Danmark er blevet det mest klimaambiti\xc3\xb8se land i Verden\xf0\x9f\x98\x81\xf0\x9f\x98\x81\xf0\x9f\x91\x8d\xf0\x9f\x91\x8d'
+18:36:41: Scraping Every Record - b'https://www.facebook.com/MetteHjermindDencker'
+18:36:56: PostURL https://www.facebook.com/MetteHjermindDencker/posts/2452900051642918
+18:36:56: Post Date b'12/10/19, 4:33 PM'
+18:36:56: Post Content: b'I aften er der forhandlinger i boligministeriet om at hindre udenlandske kapitalfonde i at k\xc3\xb8be hele K\xc3\xb8benhavn og g\xc3\xb8re det uattraktivt for lejerne\xf0\x9f\x8f\xa2 En kamp jeg med stor ildhu er g\xc3\xa5et ind i som Dansk Folkepartis boligordf\xc3\xb8rer.'
+18:36:56: Scraping Every Record - b'https://www.facebook.com/LarsAslanRasmussen/'
+18:39:20: PostURL https://www.facebook.com/LarsAslanRasmussen/posts/2143141235734759
+18:39:20: Post Date b'5/27/19, 10:02 PM'
+18:39:20: Post Content: b'L\xc3\x86NGE LEVE "KLIMATOSSERNE"'
+18:39:20: Scraping Every Record - b'https://www.facebook.com/LeifLahn'
+18:39:28: PostURL https://www.facebook.com/LeifLahn/posts/10158150509161807
+18:39:28: Post Date b'12/10/19, 4:25 PM'
+18:39:28: Post Content: b'Ogs\xc3\xa5 p\xc3\xa5 det gr\xc3\xb8nne omr\xc3\xa5de viser vi en ny retning for Danmark \xf0\x9f\x98\x8a\xf0\x9f\x8c\xb1'
+18:39:28: Scraping Every Record - b'https://www.facebook.com/TroelsLundPoulsen/'
+18:39:41: PostURL https://www.facebook.com/TroelsLundPoulsen/posts/2624750104248005
+18:39:41: Post Date b'9/17/19, 7:52 PM'
+18:39:41: Post Content: b'Jeg har aldrig v\xc3\xa6ret for fin til at komme med p\xc3\xa5 et afbud - heller ikke n\xc3\xa5r det g\xc3\xa6lder om at repr\xc3\xa6sentere Venstre p\xc3\xa5 DIs topm\xc3\xb8de i dag.'
+18:39:41: Scraping Every Record - b'https://www.facebook.com/Kaspersandkjaer'
+18:39:44: Not Posts page
+18:39:51: PostURL https://www.facebook.com/Kaspersandkjaer/posts/10157410074591115%3A1
+18:39:51: Post Date b'6/8/19, 7:19 PM'
+18:39:51: Post Content is missing
+18:39:51: Scraping Every Record - b'https://www.facebook.com/UffeElbaek/'
+18:39:59: PostURL https://www.facebook.com/UffeElbaek/posts/2893014274103018
+18:39:59: Post Date b'8/5/19, 10:03 PM'
+18:39:59: Post Content: b'K\xc3\xa6re alle venner her p\xc3\xa5 v\xc3\xa6ggen - s\xc3\xa5 er sommerferien overst\xc3\xa5et for mit vedkommende og jeg har haft min f\xc3\xb8rste arbejdsdag tilbage p\xc3\xa5 Christiansborg.'
+18:39:59: Scraping Every Record - b'https://www.facebook.com/mortenbodskov/'
+18:40:14: PostURL https://www.facebook.com/mortenbodskov/posts/2479784868764284
+18:40:14: Post Date b'9/23/19, 3:50 PM'
+18:40:14: Post Content: b'What a happy day! \xf0\x9f\x92\xaa\xf0\x9f\x87\xa9\xf0\x9f\x87\xb0'
+18:40:14: Scraping Every Record - b'https://www.facebook.com/larsloekke'
+18:40:53: PostURL https://www.facebook.com/larsloekke/posts/10157481819983788
+18:40:53: Post Date b'9/29/19, 4:03 PM'
+18:40:53: Post Content: b'Som du m\xc3\xa5ske har h\xc3\xb8rt, har S\xc3\xb3lrun valgt at bruge "vores nye situation" til at s\xc3\xa6tte liv i en gammel dr\xc3\xb8m om at lave sm\xc3\xa5 grupperejser til F\xc3\xa6r\xc3\xb8erne, som b\xc3\xa5de hun og jeg holder s\xc3\xa5 meget af. Hendes f\xc3\xb8rste rejse er allerede p\xc3\xa5 fredag, og hun har nu programsat fire rejser i for\xc3\xa5ret 2020.'
+18:40:53: Scraping Every Record - b'https://www.facebook.com/Marie.Bjerre.i.FT/'
+18:41:01: PostURL https://www.facebook.com/Marie.Bjerre.i.FT/posts/1066318037050364
+18:41:01: Post Date b'12/20/19, 6:04 PM'
+18:41:01: Post Content: b'Regeringen og den \xc3\xb8vrige venstrefl\xc3\xb8j har netop besluttet at tredoble afgiften p\xc3\xa5 b\xc3\xa6reposer og engangsservice \xf0\x9f\xa4\xaf'
+18:41:01: Scraping Every Record - b'https://www.facebook.com/socialdemokratiet/'
+18:41:09: PostURL https://www.facebook.com/socialdemokratiet/posts/10156801872533030
+18:41:09: Post Date b'12/22/19, 2:34 PM'
+18:41:09: Post Content: b''
+18:41:09: Scraping Every Record - b'https://www.facebook.com/LiberalAlliance/'
+18:41:17: PostURL https://www.facebook.com/LiberalAlliance/posts/2648570531848451
+18:41:17: Post Date b'12/27/19, 2:03 PM'
+18:41:17: Post Content: b'I Liberal Alliance mener vi ikke, at klimapolitik skal f\xc3\xb8res med bind for \xc3\xb8jenene og derfor er det st\xc3\xa6rkt kritisabelt at regeringen hemmeligholder tallene for, hvor meget den nye klimalov koster.'
+18:41:17: Scraping Every Record - b'https://www.facebook.com/sofiecarstennielsen/'
+18:41:32: PostURL https://www.facebook.com/sofiecarstennielsen/posts/3313128398759312
+18:41:32: Post Date b'12/15/19, 11:51 PM'
+18:41:32: Post Content: b'Her p\xc3\xa5 bagkant af en mislykket COP25 er det vigtigt at g\xc3\xb8re op. Mener vi det med den gr\xc3\xb8nne omstilling? Det er et sp\xc3\xb8rgsm\xc3\xa5l om videnskab. Vi skal handle for klodens overlevelse. Men det er ogs\xc3\xa5 et sp\xc3\xb8rgsm\xc3\xa5l om grundl\xc3\xa6ggende moral. Vi er mennesker f\xc3\xb8r vi er noget som helst andet. Vi kan ikke s\xc3\xa6tte vores politiske farver op foran os og sige at derfor kan der ikke handles. Det g\xc3\xa5r ikke. Det g\xc3\xa6lder ude i verden s\xc3\xa5vel som herhjemme.'
+18:41:32: Scraping Every Record - b'https://www.facebook.com/pia.olsen.dyhr/'
+18:41:40: PostURL https://www.facebook.com/pia.olsen.dyhr/posts/10157607711711480
+18:41:40: Post Date b'12/24/19, 2:00 PM'
+18:41:40: Post Content: b'Sikke et \xc3\xa5r!'
+18:41:40: Scraping Every Record - b'https://www.facebook.com/stembrandenborg/'
+18:41:49: PostURL https://www.facebook.com/stembrandenborg/posts/1002878660075879
+18:41:49: Post Date b'12/18/19, 11:06 PM'
+18:41:49: Post Content: b'Lige om lidt har Danmark en ny finanslov \xf0\x9f\x87\xa9\xf0\x9f\x87\xb0'
+18:41:49: Scraping Every Record - b'https://www.facebook.com/jakobellemann/'
+18:42:18: PostURL https://www.facebook.com/jakobellemann/posts/990793934589845
+18:42:18: Post Date b'11/12/19, 3:00 PM'
+18:42:18: Post Content: b'Vi skal g\xc3\xb8re meget mere for at nedbringe vores udledning af drivhusgasser. Eller sagt med andre ord: Det haster med den gr\xc3\xb8nne omstilling.'
+18:42:18: Scraping Every Record - b'https://www.facebook.com/jyllandsposten/'
+18:42:31: PostURL https://www.facebook.com/jyllandsposten/posts/10157165676467683
+18:42:31: Post Date b'12/27/19, 10:33 AM'
+18:42:31: Post Content: b''
+18:42:31: Scraping Every Record - b'https://www.facebook.com/eva.flyvholm.enhedslisten'
+18:42:40: PostURL https://www.facebook.com/eva.flyvholm.enhedslisten/posts/1527998704005443
+18:42:40: Post Date b'12/7/19, 1:58 AM'
+18:42:40: Post Content: b'Ny klimalov \xf0\x9f\x92\x9a'
+18:42:40: Scraping Every Record - b'https://www.facebook.com/stemjacobmark/'
+18:42:55: PostURL https://www.facebook.com/stemjacobmark/posts/10157304675898411
+18:42:55: Post Date b'12/13/19, 4:03 PM'
+18:42:55: Post Content: b'\xc3\x85rets ord er \xe2\x80\x9cklimatosse.\xe2\x80\x9d\nDet er lige blevet k\xc3\xa5ret af Danmarks Radio.'
+18:42:55: Scraping Every Record - b'https://www.facebook.com/SorenPapePoulsen/'
+18:43:09: PostURL https://www.facebook.com/SorenPapePoulsen/posts/3165737053442568
+18:43:09: Post Date b'12/7/19, 12:54 AM'
+18:43:09: Post Content: b'En rigtig god og vigtig nyhed. Klimaloven er landet!'
+18:43:09: Scraping Every Record - b'https://www.facebook.com/susanne.zimmer.alternativet/'
+18:43:23: PostURL https://www.facebook.com/susanne.zimmer.alternativet/posts/988146861563331
+18:43:23: Post Date b'12/12/19, 2:31 PM'
+18:43:23: Post Content: b''
+18:43:23: Scraping Every Record - b'https://www.facebook.com/rasmusstoklund/'
+18:43:39: PostURL https://www.facebook.com/rasmusstoklund/posts/2462085190712558
+18:43:39: Post Date b'12/10/19, 3:27 PM'
+18:43:39: Post Content: b'Den tidligere klimaminister vandt pris som "Dagens Fossil" ved COP21 p\xc3\xa5 grund af Venstre-regeringens bagstr\xc3\xa6beriske holdning til det gr\xc3\xb8nne. I disse dage er holdningen heldigvis en anden ved COP25 i Madrid, hvor Danmark har modtaget prisen som "Dagens Solstr\xc3\xa5le".'
+18:43:39: Scraping Every Record - b'https://www.facebook.com/VenstresUngdom/'
+18:44:06: PostURL https://www.facebook.com/VenstresUngdom/posts/10156949799168731
+18:44:06: Post Date b'9/26/19, 10:14 PM'
+18:44:06: Post Content: b'\xf0\x9f\x92\x99 DANMARK SKAL V\xc3\x86RE I HJERTET AF EU! \xf0\x9f\x92\x9b'
+18:44:06: Scraping Every Record - b'https://www.facebook.com/simonkollerup'
+18:44:14: PostURL https://www.facebook.com/simonkollerup/posts/2438974802897608
+18:44:14: Post Date b'12/3/19, 10:15 PM'
+18:44:14: Post Content: b'\xe2\x80\xaaDer var ingen tvivl ved folketingsvalget: Danskerne ville have en ny retning. Og det f\xc3\xa5r vi nu! \xf0\x9f\x8c\xb9 Efter flere \xc3\xa5r med nedsk\xc3\xa6ringer efter nedsk\xc3\xa6ringer er det nu tid til at vende udviklingen. Nu prioriterer vi vores b\xc3\xb8rn, hospitalerne, uddannelserne, psykiatrien, folkeskolen og de \xc3\xa6ldre.'
+18:44:14: Scraping Every Record - b'https://www.facebook.com/fyensdk/'
+18:46:19: Posts > 100
+18:46:19: Scraping Every Record - b'https://www.facebook.com/KirstenNormannAndersen'
+18:47:04: PostURL https://www.facebook.com/KirstenNormannAndersen/posts/2733589586665170
+18:47:04: Post Date b'10/9/19, 10:08 AM'
+18:47:04: Post Content: b'N\xc3\xb8dlidende Skejby Sygehus kan langt om l\xc3\xa6nge tr\xc3\xa6kke vejret lidt mere frit - med et n\xc3\xb8dvendigt ekstraordin\xc3\xa6rt tilskud i aftalen med danske regioner - og nu ogs\xc3\xa5 i Region Midtjyllands eget budget. Jeg er glad for den tiltr\xc3\xa6ngte h\xc3\xa5ndsr\xc3\xa6kning. Jeg er ogs\xc3\xa5 bevidst om, at vi stadig skal f\xc3\xb8lge situationen n\xc3\xb8je - ikke kun i forhold til Skejby - men generelt i forhold til sygehusenes muligheder for at levere den kvalitet, som vi alle sammen forventer af sundhedsv\xc3\xa6snet. Men lige nu puster jeg ogs\xc3\xa5 langsomt ud og krydser fingre for, at patienter og personale ogs\xc3\xa5 kan tr\xc3\xa6kke vejret igen.'
+18:47:04: Scraping Every Record - b'https://www.facebook.com/HenrikDahlLA/'
+18:47:11: PostURL https://www.facebook.com/HenrikDahlLA/posts/1204374713090210
+18:47:11: Post Date b'12/26/19, 2:09 PM'
+18:47:11: Post Content: b'VENSTREEKSTREMISMENS COMEBACK'
+18:47:11: Scraping Every Record - b'https://www.facebook.com/HalimeSF/'
+18:47:19: PostURL https://www.facebook.com/HalimeSF/posts/2598824370231355
+18:47:19: Post Date b'12/8/19, 5:19 PM'
+18:47:19: Post Content: b'I SF g\xc3\xa5r vi ind for n\xc3\xb8dvendighedens politik, men nok p\xc3\xa5 en anden m\xc3\xa5de, end hvad man almindeligvis forst\xc3\xa5r ved dette begreb.'
+18:47:19: Scraping Every Record - b'https://www.facebook.com/henning.hyllested'
+18:47:33: PostURL https://www.facebook.com/henning.hyllested/posts/840858282984239
+18:47:33: Post Date b'12/7/19, 2:32 AM'
+18:47:33: Post Content: b''
+18:47:33: Scraping Every Record - b'https://www.facebook.com/lotterod/'
+18:47:41: PostURL https://www.facebook.com/lotterod/posts/2685877598132940
+18:47:41: Post Date b'11/29/19, 9:23 PM'
+18:47:41: Post Content: b'Klimademo. Jeg kigger ned i barnevognen og t\xc3\xa6nker: Kommer hun til at sk\xc3\xa6lde ud over, at vi ikke gjorde nok? Eller kommer hun til at blive taknemmelig for, at vi tog opgaven p\xc3\xa5 os, mens vi kunne? Det ved vi stadig ikke. Jeg kan ikke se mig fri for at blive overv\xc3\xa6ldet over, at vi st\xc3\xa5r med det ansvar nu. Og s\xc3\xa5 bliver jeg taknemmelig over at have folk som Ida, der aldrig giver op.'
+18:47:41: Scraping Every Record - b'https://www.facebook.com/CharlotteBromanMoelbaek/'
+18:47:53: PostURL https://www.facebook.com/CharlotteBromanMoelbaek/posts/2722891361121063
+18:47:53: Post Date b'12/7/19, 2:49 AM'
+18:47:53: Post Content: b''
+18:47:53: Scraping Every Record - b'https://www.facebook.com/mortendahlin'
+18:48:18: PostURL https://www.facebook.com/mortendahlin/posts/1394742537361625
+18:48:18: Post Date b'12/3/19, 2:13 PM'
+18:48:18: Post Content: b'\xe2\x80\x9cVi har en hel generation, der ikke t\xc3\xb8r dr\xc3\xb8mme, fordi det ser ud til, at vi ikke har en s\xc3\xa6rlig fed fremtid\xe2\x80\x9d'
+18:48:18: Scraping Every Record - b'https://www.facebook.com/politiken/'
+18:48:31: PostURL https://www.facebook.com/politiken/posts/10159119079983294
+18:48:31: Post Date b'12/27/19, 2:14 AM'
+18:48:31: Post Content: b'Ingen menes at v\xc3\xa6re kommet til skade torsdag aften, hvor der er blevet affyret fyrv\xc3\xa6rkeri mod personer. \xc2\xbbRent held\xc2\xab, siger vagtchefen ved K\xc3\xb8benhavns Politi.'
+18:48:31: Scraping Every Record - b'https://www.facebook.com/jenshenrik.thulesendahl'
+18:48:34: Not Posts page
+18:48:36: PostURL https://www.facebook.com/jenshenrik.thulesendahl/posts/10221209118881313
+18:48:36: Post Date b'11/29/19, 3:16 PM'
+18:48:36: Post Content: b'S\xc3\xa5 har vi haft debatten om indeklimaet i folkeskolen. Og tak for en god debat. Der var stor opbakning til at der skal g\xc3\xb8res noget - bare ikke helt, som vi havde foresl\xc3\xa5et det - s\xc3\xa5 nu skal jeg have skrevet en s\xc3\xa5kaldt \xe2\x80\x9cberetning\xe2\x80\x9d hvor jeg h\xc3\xa5ber at kunne f\xc3\xa5 et stort flertal til at bakke op om, at KL skal presses p\xc3\xa5 maven for at sikre, at der kommer planer i kommunerne. Vi skal ogs\xc3\xa5 have sikret, at Dansk Center For Undervisningsmilj\xc3\xb8 f\xc3\xa5r bedre muligheder for at kontrollere og kr\xc3\xa6ve, at undervisningsmilj\xc3\xb8et - herunder indeklimaet - er i orden p\xc3\xa5 de enkelte skoler.'
+18:48:36: Scraping Every Record - b'https://www.facebook.com/sftrine/'
+18:48:49: PostURL https://www.facebook.com/sftrine/posts/2519333874830519
+18:48:49: Post Date b'12/7/19, 1:20 AM'
+18:48:49: Post Content: b'KLIMATOSSERNES AFTEN \xf0\x9f\x92\x9a\nVi har nu f\xc3\xa5et den mest ambiti\xc3\xb8se klimalov.'
+18:48:49: Scraping Every Record - b'https://www.facebook.com/Mai-Villadsen-285722315449568/'
+18:48:57: PostURL https://www.facebook.com/Mai-Villadsen-285722315449568/posts/445651966123268
+18:48:57: Post Date b'12/13/19, 1:22 AM'
+18:48:57: Post Content: b'Vi skal passe p\xc3\xa5 Amazonas!'
+18:48:57: Scraping Every Record - b'https://www.facebook.com/annesophie.radikale/'
+18:49:11: PostURL https://www.facebook.com/annesophie.radikale/posts/974978022901465
+18:49:11: Post Date b'12/7/19, 8:08 PM'
+18:49:11: Post Content: b''
+18:49:11: Scraping Every Record - b'https://www.facebook.com/LandbrugFoedevarer/'
+18:49:19: PostURL https://www.facebook.com/LandbrugFoedevarer/posts/2184929495142146
+18:49:19: Post Date b'11/29/19, 6:25 PM'
+18:49:19: Post Content: b'Vidste du, at proteiner kan v\xc3\xa6re en gevinst for b\xc3\xa5de milj\xc3\xb8et og klimaet \xf0\x9f\x91\xa9\xe2\x80\x8d\xf0\x9f\x94\xac'
+18:49:19: Scraping Every Record - b'https://www.facebook.com/Chr.Juhl1'
+18:49:31: PostURL https://www.facebook.com/Chr.Juhl1/posts/2659473270803314
+18:49:31: Post Date b'12/18/19, 4:29 PM'
+18:49:31: Post Content: b'Klimaet og de fattigste blev ikke tilgodeset af verdens rigeste lande p\xc3\xa5 Cop 25 i Madrid.\nPinligt og problematisk'
+18:49:31: Scraping Every Record - b'https://www.facebook.com/fatmaoktemv/'
+18:49:39: PostURL https://www.facebook.com/fatmaoktemv/posts/2510899645864963
+18:49:39: Post Date b'12/20/19, 5:21 PM'
+18:49:39: Post Content: b'S\xc3\xa5 har vi stemt for sidste gang i \xc3\xa5r. Jeg s\xc3\xa5 gerne, at danskerne slap for vedtagelser som en tredobling af afgiften p\xc3\xa5 emballage, plasticposer og engangsservice. En afgift, de gr\xc3\xb8nne organisationer frar\xc3\xa5der. Afgiften er hverken gr\xc3\xb8n eller sund \xe2\x80\x93 udelukkende flad og r\xc3\xb8d. Imod min og Venstres vilje vedtog et flertal ogs\xc3\xa5 at sende skattestigninger i retning af erhvervslivet. Til trods for uenighed var der stadig en fantastisk stemning i salen \xe2\x80\x93 julefreden n\xc3\xa6rmer sig.'
+18:49:39: Scraping Every Record - b'https://www.facebook.com/danskfolkeparti/'
+18:50:06: PostURL https://www.facebook.com/danskfolkeparti/posts/3207047559323579
+18:50:06: Post Date b'12/7/19, 11:59 AM'
+18:50:06: Post Content: b'Dansk Folkeparti har sammen med et bredt flertal i folketinget vedtaget en historisk klimalov! Danmark viser vejen \xf0\x9f\x87\xa9\xf0\x9f\x87\xb0'
+18:50:06: Scraping Every Record - b'https://www.facebook.com/Karina-Adsb%C3%B8l-1546433252297862/'
+18:52:08: PostURL https://www.facebook.com/Karina-Adsb%C3%B8l-1546433252297862/posts/2280068718934308
+18:52:08: Post Date b'3/16/19, 1:14 AM'
+18:52:08: Post Content: b'Klima kampen handler blandt andet om, at bruge sin sunde fornuft - Den var der s\xc3\xa5 nogle der manglede i dag https://ekstrabladet.dk/\xe2\x80\xa6/haervaerk-unge-klima-fork\xe2\x80\xa6/7556066'
+18:52:08: Scraping Every Record - b'https://www.facebook.com/oestergaard/'
+18:52:24: PostURL https://www.facebook.com/oestergaard/posts/3233275796701813
+18:52:24: Post Date b'12/16/19, 3:14 PM'
+18:52:24: Post Content: b'Er du med p\xc3\xa5 at indf\xc3\xb8re flyafgift?\nP\xc3\xa5 at s\xc3\xa6tte en stopper for busser, der forurener?\nOg fyre oliefyret?'
+18:52:24: Scraping Every Record - b'https://www.facebook.com/1Knuth/'
+18:53:58: PostURL https://www.facebook.com/1Knuth/posts/2127814127323912
+18:53:58: Post Date b'10/8/19, 10:01 AM'
+18:53:58: Post Content: b'For nogen en lille ting, for andre overlevelse.'
+18:53:58: Scraping Every Record - b'https://www.facebook.com/sjurdur.skaale'
+18:54:02: Not Posts page
+18:54:19: PostURL https://www.facebook.com/sjurdur.skaale/posts/10217610602109370
+18:54:19: Post Date b'11/28/19, 12:15 AM'
+18:54:19: Post Content: b'Javna\xc3\xb0arflokkurin hevur \xc3\xa1 f\xc3\xb3lkatingi v\xc3\xadst \xc3\xa1, at ta\xc3\xb0 als ikki er \xc3\xad lagi, at f\xc3\xb8royingar, sum taka ein grindabita vi\xc3\xb0 til Danmarkar, f\xc3\xa1a st\xc3\xb3ra b\xc3\xb3t um teir ver\xc3\xb0a tiknir \xc3\xad Kastrup - me\xc3\xb0an gr\xc3\xb8nlendingar hinvegin kunnu taka tv\xc3\xb8st vi\xc3\xb0.\nLegendariski teknarin \xc3\xa1 Sk\xc3\xa1la var skj\xc3\xb3tur \xf0\x9f\x98\x80'
+18:54:19: Scraping Every Record - b'https://www.facebook.com/mettegjerskov/'
+18:54:26: PostURL https://www.facebook.com/mettegjerskov/posts/1019774495047583
+18:54:26: Post Date b'12/26/19, 1:41 PM'
+18:54:26: Post Content: b'Kom nu venner og f\xc3\xb8lgere. Jeg bringer gode nyheder. Ja ligefrem verdens bedste nyhed om halvering af verdens ekstreme fattigdom. Og I giver s\xc3\xb8lle 21 likes?'
+18:54:26: Scraping Every Record - b'https://www.facebook.com/lea.wermelin'
+18:54:29: Not Posts page
+18:54:33: PostURL https://www.facebook.com/lea.wermelin/posts/10159042167987619
+18:54:33: Post Date b'12/20/19, 8:19 PM'
+18:54:33: Post Content: b'Fredag og Sailing Home for Christmas\xf0\x9f\x98\x8d\xf0\x9f\x8e\x84\xf0\x9f\x8c\x8a\xf0\x9f\x9b\xb3\xe2\x9d\xa4\xef\xb8\x8f God weekend'
+18:54:33: Scraping Every Record - b'https://www.facebook.com/SAMIRA.NAWA'
+18:55:13: PostURL https://www.facebook.com/SAMIRA.NAWA/posts/3061576667192489
+18:55:13: Post Date b'9/27/19, 4:28 PM'
+18:55:13: Post Content: b'Sammen med en masse b\xc3\xb8rn, unge og voksne brugte jeg i dag frokostpausen p\xc3\xa5 at demonstrere for klimaet \xf0\x9f\x92\x9a'
+18:55:13: Scraping Every Record - b'https://www.facebook.com/enhedslisten/'
+18:55:27: PostURL https://www.facebook.com/enhedslisten/posts/10157570352096023
+18:55:27: Post Date b'12/10/19, 6:03 PM'
+18:55:27: Post Content: b''
+18:55:27: Scraping Every Record - b'https://www.facebook.com/signe.munk.5'
+18:55:34: PostURL https://www.facebook.com/signe.munk.5/posts/1638143269668489
+18:55:34: Post Date b'12/19/19, 2:09 PM'
+18:55:34: Post Content: b'GreenLab ved Skive modtager st\xc3\xb8tte p\xc3\xa5 80 mio. fra staten til at udvikle l\xc3\xb8sninger til at lagre og omdanne gr\xc3\xb8n str\xc3\xb8m\xf0\x9f\x94\x8c\xf0\x9f\x92\xa1'
+18:55:34: Scraping Every Record - b'https://www.facebook.com/maimercado.dk/'
+18:55:41: PostURL https://www.facebook.com/maimercado.dk/posts/2785491634847775
+18:55:41: Post Date b'12/27/19, 3:40 PM'
+18:55:41: Post Content: b'Jeg har sagt ja til en klimaudfordring \xf0\x9f\x92\x9a S\xc3\xa5 fra den 2. Januar kommer jeg til at leve vegansk i 22 dage \xf0\x9f\xa5\x95\xf0\x9f\xa5\xa6\xf0\x9f\xa5\xac\xf0\x9f\xa5\x92\xf0\x9f\xa5\x94\xf0\x9f\x8d\x8f\xf0\x9f\x8d\x87'
+18:55:41: Scraping Every Record - b'https://www.facebook.com/katrinerobsoe/'
+18:55:48: PostURL https://www.facebook.com/katrinerobsoe/posts/2595351254019661
+18:55:48: Post Date b'12/7/19, 1:09 PM'
+18:55:48: Post Content: b''
+18:55:48: Scraping Every Record - b'https://www.facebook.com/karinalorentzendehnhardt/'
+18:56:03: PostURL https://www.facebook.com/karinalorentzendehnhardt/posts/2652814601422815
+18:56:03: Post Date b'12/14/19, 5:27 PM'
+18:56:03: Post Content: b'PLANT ET GRATIS JULETR\xc3\x86\nVI fr\xc3\xb8s, og det var v\xc3\xa5dt. Men folk i g\xc3\xa5gaden tog godt imod vores sm\xc3\xa5 grantr\xc3\xa6er, som vi delte ud i anledning af, at vi har f\xc3\xa5et en klimalov. Tr\xc3\xa6erne kan plantes ud i haven, og p\xc3\xa5 den m\xc3\xa5de f\xc3\xa5r vi plantet erstatningstr\xc3\xa6er for nogle af de juletr\xc3\xa6er, der hvert \xc3\xa5r f\xc3\xa6ldes. Det er godt for klimaet og naturen.'
+18:56:03: Scraping Every Record - b'https://www.facebook.com/heunicke/'
+18:56:22: PostURL https://www.facebook.com/heunicke/posts/2606124316161700
+18:56:22: Post Date b'12/3/19, 12:43 AM'
+18:56:22: Post Content: b'Godt arbejde af vores finansminister og alle de deltagende partier \xf0\x9f\x92\xaa'
+18:56:22: Scraping Every Record - b'https://www.facebook.com/lisbethbechpoulsen/'
+18:56:29: PostURL https://www.facebook.com/lisbethbechpoulsen/posts/2418620195074622
+18:56:29: Post Date b'12/7/19, 6:59 PM'
+18:56:29: Post Content: b'Sikke en uge. Vi startede med en r\xc3\xb8d-gr\xc3\xb8n finanslov mandag og sluttede af med en klimalov sent fredag aften. Jeg er glad. \xf0\x9f\x92\x9a\xf0\x9f\x8c\xb3\xf0\x9f\x90\x9b\xf0\x9f\x90\xa2\xf0\x9f\xa6\x8e\xf0\x9f\x8c\xbf\nGodt g\xc3\xa5et af stort set alle partierne, af Pia Olsen Dyhr og vores klimaordf\xc3\xb8rer Signe Munk!'
+18:56:29: Scraping Every Record - b'https://www.facebook.com/tschackpedersen/'
+18:56:50: PostURL https://www.facebook.com/tschackpedersen/posts/1789052008061030
+18:56:50: Post Date b'11/1/19, 10:12 PM'
+18:56:50: Post Content: b'Nu g\xc3\xa5r klimaforhandlingerne i gang. For Venstre handler det om at sikre reelle l\xc3\xb8sninger og forbedringer. At eksportere arbejdspladser, velstand og CO2 fra Danmark til andre lande l\xc3\xb8ser jo ingen globale problemer.'
+18:56:50: Scraping Every Record - b'https://www.facebook.com/BennyEngelbrecht/'
+18:56:58: PostURL https://www.facebook.com/BennyEngelbrecht/posts/2873413442668959
+18:56:58: Post Date b'12/14/19, 7:52 PM'
+18:56:58: Post Content: b'\xe2\x80\xaaDanmark har sat en gr\xc3\xb8n kurs, ogs\xc3\xa5 n\xc3\xa5r det handler om f\xc3\xa6rger. For nylig var jeg med f\xc3\xa6rgen Ellen fra Fynshav til S\xc3\xb8by og i g\xc3\xa5r var jeg med den retro-fittede elf\xc3\xa6rge fra Helsing\xc3\xb8r til Helsingborg. Der er stort potentiale i flere gr\xc3\xb8nne f\xc3\xa6rgel\xc3\xb8sninger i Danmark. Vi er jo - n\xc3\xa5r alt kommer til alt - en s\xc3\xb8fartsnation.'
+18:56:58: Scraping Every Record - b'https://www.facebook.com/mettefrederiksen.dk/'
+18:57:12: PostURL https://www.facebook.com/mettefrederiksen.dk/posts/10157673468842719
+18:57:12: Post Date b'12/16/19, 4:40 PM'
+18:57:12: Post Content: b'Tak for kampen og samarbejdet Uffe. Du har altid k\xc3\xa6mpet for det, du tror p\xc3\xa5. Det har jeg respekt for. Som formand for Alternativet gik du forrest i kampen for klimaet. Du har p\xc3\xa5virket os og flere af de andre partier p\xc3\xa5 klimaomr\xc3\xa5det.\nJeg er glad for de to store og vigtige aftaler, vi har lavet sammen. Finansloven og Klimaloven. Ser frem til et fortsat godt samarbejde med en ny formand for Alternativet \xf0\x9f\x92\x9a'
+18:57:12: Scraping Every Record - b'https://www.facebook.com/AstridCaroe/'
+18:57:20: PostURL https://www.facebook.com/AstridCaroe/posts/498798820723459
+18:57:20: Post Date b'12/3/19, 12:43 AM'
+18:57:20: Post Content: b'S\xc3\xa5dan \xf0\x9f\x92\xaa\xf0\x9f\x92\xaa Vi har f\xc3\xa5et minimumsnormeringer p\xc3\xa5 finansloven!'
+18:57:20: Scraping Every Record - b'https://www.facebook.com/jensjoel/'
+18:57:29: PostURL https://www.facebook.com/jensjoel/posts/2457585491033579
+18:57:29: Post Date b'12/24/19, 7:55 PM'
+18:57:29: Post Content: b''
+18:57:29: Scraping Every Record - b'https://www.facebook.com/KHegaard'
+18:57:44: PostURL https://www.facebook.com/KHegaard/posts/1719446868189328
+18:57:44: Post Date b'12/7/19, 4:53 PM'
+18:57:44: Post Content: b'TIDLIG JULEGAVE \xf0\x9f\x92\x9a\xf0\x9f\x92\x9a\xf0\x9f\x92\x9a'
+18:57:44: Scraping Every Record - b'https://www.facebook.com/martin.lidegaard/'
+18:57:51: PostURL https://www.facebook.com/martin.lidegaard/posts/2533278013392549
+18:57:51: Post Date b'12/27/19, 1:27 PM'
+18:57:51: Post Content: b'Dear PM Scott Morrison (ScoMo)'
+18:57:51: Scraping Every Record - b'https://www.facebook.com/skaarupdf/'
+18:59:40: PostURL https://www.facebook.com/skaarupdf/posts/2645104462209315
+18:59:40: Post Date b'11/18/19, 4:56 PM'
+18:59:40: Post Content: b'Mette Frederiksens regering er under stort pres fra sine r\xc3\xb8de st\xc3\xb8ttepartier for at lempe udl\xc3\xa6ndingepolitikken endnu mere. Det kan g\xc3\xa5 hen og blive dyrt for Danmark og koste Mette Frederiksen genvalgschancen. Tiden er kommet til at s\xc3\xa6tte foden ned over for de Radikale og stoppe med at give indr\xc3\xb8mmelser p\xc3\xa5 udl\xc3\xa6ndingeomr\xc3\xa5det! Del gerne hvis du er enig.'
+18:59:40: Scraping Every Record - b'https://www.facebook.com/BrigitteKlintskovJerkel/'
+18:59:54: PostURL https://www.facebook.com/BrigitteKlintskovJerkel/posts/1352648911570376
+18:59:54: Post Date b'12/7/19, 12:30 PM'
+18:59:54: Post Content: b'F\xc3\xb8r valget sagde vi, at der var behov for en ny klimalov, et styrket klimar\xc3\xa5d, bindende m\xc3\xa5l og inddragelse af erhvervslivet. Nu kommer det hele, og det er vi godt tilfredse med \xf0\x9f\x8c\xbf\xf0\x9f\x92\x9a'
+18:59:54: Scraping Every Record - b'https://www.facebook.com/LiberalUngdom/'
+19:00:07: PostURL https://www.facebook.com/LiberalUngdom/posts/10157690416528383
+19:00:07: Post Date b'10/2/19, 2:22 PM'
+19:00:07: Post Content: b'KLIMAET ER FOR VIGTIGT TIL AT VI OVERLADER DET TIL SOCIALISTERNE'
+19:00:07: Scraping Every Record - b'https://www.facebook.com/stembrittbager/'
+19:00:25: PostURL https://www.facebook.com/stembrittbager/posts/2091787350949916
+19:00:25: Post Date b'6/9/19, 2:57 PM'
+19:00:25: Post Content: b'De skal jo ned igen - plakaterne #fv19 #exndnuenplakatdag #venstre #\xc3\xb8stjylland'
+19:00:25: Scraping Every Record - b'https://www.facebook.com/andreasraaby.steenberg'
+19:00:30: Not Posts page
+19:01:14: no more posts
+19:01:14: Scraping Every Record - b'https://www.facebook.com/martin.geertsen'
+19:01:32: PostURL https://www.facebook.com/martin.geertsen/posts/2503063976437594
+19:01:32: Post Date b'11/4/19, 11:01 PM'
+19:01:32: Post Content: b'Citat Henrik Palle, Politiken: "Jeg k\xc3\xb8rer p\xc3\xa5 cykel, spiser gr\xc3\xb8nt og smider ikke affald p\xc3\xa5 gaden. Men jeg har ogs\xc3\xa5 en bil, og den vil jeg s\xc3\xa5dan set gerne beholde og have lov til at k\xc3\xb8re i uden at blive chikaneret fra politisk hold."'
+19:01:32: Scraping Every Record - b'https://www.facebook.com/ditbt/'
+19:01:51: PostURL https://www.facebook.com/ditbt/posts/3427781800582347
+19:01:51: Post Date b'12/27/19, 1:10 AM'
+19:01:51: Post Content: b''
+19:01:51: Scraping Every Record - b'https://www.facebook.com/CarlValentinSF/'
+19:01:58: PostURL https://www.facebook.com/CarlValentinSF/posts/1381706112010946
+19:01:58: Post Date b'12/10/19, 7:26 PM'
+19:01:58: Post Content: b'Hvad skete der med sagen om megaafgiften p\xc3\xa5 plantebaseret kakaodrik?'
+19:01:58: Scraping Every Record - b'https://www.facebook.com/danjorgensen/'
+19:02:06: PostURL https://www.facebook.com/danjorgensen/posts/10156495576430836
+19:02:06: Post Date b'12/18/19, 5:04 PM'
+19:02:06: Post Content: b'Go Denmark!'
+19:02:06: Scraping Every Record - b'https://www.facebook.com/mette.thiesen/?tn-str=k*F'
+19:02:09: Not Posts page
+19:02:09: No Posts
+19:02:09: Scraping Every Record - b'https://www.facebook.com/kplorentzen/'
+19:02:22: PostURL https://www.facebook.com/kplorentzen/posts/2369298119985336
+19:02:22: Post Date b'10/1/19, 12:28 PM'
+19:02:22: Post Content: b'Dagen startede ud med debat om el-l\xc3\xb8behjul og gr\xc3\xb8n transport p\xc3\xa5 radio P4 Midt Vest. Min gode kollega Andreas Steenbeerg(RV) og jeg blev sat i st\xc3\xa6vne til en tur p\xc3\xa5 el-l\xc3\xb8behjul og en snak om gr\xc3\xb8n transport.'
+19:02:22: Scraping Every Record - b'https://www.facebook.com/astrid.krag/'
+19:02:30: PostURL https://www.facebook.com/astrid.krag/posts/1280937402089164
+19:02:30: Post Date b'12/22/19, 8:06 PM'
+19:02:30: Post Content: b'S\xc3\xa5 kom juletr\xc3\xa6et i hus, k\xc3\xb8bt hos Hjeml\xc3\xb8se Juletr\xc3\xa6er. Og jeg k\xc3\xb8bte ogs\xc3\xa5 en julegave til mig selv: et smukt linoleums-tryk som en af de dygtige gr\xc3\xb8nlandske brugere p\xc3\xa5 Aktivitetscentret Sundholm har lavet \xe2\x9d\xa4\xef\xb8\x8f'
+19:02:30: Scraping Every Record - b'https://www.facebook.com/torsten.gejl'
+19:02:38: PostURL https://www.facebook.com/torsten.gejl/posts/1532540120230059
+19:02:38: Post Date b'12/18/19, 8:48 PM'
+19:02:38: Post Content: b'Alternativet har netop f\xc3\xa5et stor ros af finansminister Nicolai Wammen for vores st\xc3\xa6rke gr\xc3\xb8nne aftryk p\xc3\xa5 finansloven.'
+19:02:38: Scraping Every Record - b'https://www.facebook.com/hans.c.schmidt.58/'
+19:03:32: PostURL https://www.facebook.com/hans.c.schmidt.58/posts/1070967986427922
+19:03:32: Post Date b'5/24/19, 11:10 AM'
+19:03:32: Post Content: b'S\xc3\xa5 er holdet klar i valgbussen\xf0\x9f\x9a\x8c\nI dag g\xc3\xa5r turen til Padborg hvor jeg skal \xc3\xa5bne transportmessen. Herefter k\xc3\xb8rer vi til Aabenraa hvor vi vil v\xc3\xa6re at finde p\xc3\xa5 Dyreskuepladsen fra 12-15 og i g\xc3\xa5gaden fra 15.30-17. Jeg h\xc3\xa5ber vi ses \xe2\x98\xba\xef\xb8\x8f'
+19:03:32: Scraping Every Record - b'https://www.facebook.com/b.laustsen'
+19:03:39: PostURL https://www.facebook.com/b.laustsen/posts/2758114154245247
+19:03:39: Post Date b'12/23/19, 5:58 PM'
+19:03:39: Post Content: b'JULEHILSEN 2019\xf0\x9f\x8e\x84\xf0\x9f\x8e\x84\xf0\x9f\x8e\x84\xf0\x9f\x8e\x84\xf0\x9f\x8e\x84'
+19:03:39: Scraping Every Record - b'https://www.facebook.com/kristianjensen.venstre/'
+19:03:55: PostURL https://www.facebook.com/kristianjensen.venstre/posts/2576983132351976
+19:03:55: Post Date b'10/2/19, 2:44 PM'
+19:03:55: Post Content: b'H\xc3\xb8jere skatter, mindre st\xc3\xb8tte til friskoler og en aflyst bredb\xc3\xa5ndspulje.\nDet er desv\xc3\xa6rre blevet nye tider i Finansministeriet\n#dkpol'
+19:03:55: Scraping Every Record - b'https://www.facebook.com/runelund.dk/'
+19:04:02: PostURL https://www.facebook.com/runelund.dk/posts/2841967999189406
+19:04:02: Post Date b'12/7/19, 1:04 AM'
+19:04:02: Post Content: b'En k\xc3\xa6mpe politisk sejr! Vi har en klimalov, med lovf\xc3\xa6stet delm\xc3\xa5l og 70 pct. reduktion af klimagasser i 2030.'
+19:04:02: Scraping Every Record - b'https://www.facebook.com/kim.valentin.7'
+19:04:06: Not Posts page
+19:04:20: PostURL https://www.facebook.com/kim.valentin.7/posts/10217706952199630
+19:04:20: Post Date b'10/3/19, 10:14 PM'
+19:04:20: Post Content: b'\xc3\x85bningsdebat om klima: Venstre vil ikke bare flytte CO2 udledningen. Venstre vil nedbringe den med reelle konkrete initiativer og forslag som g\xc3\xb8r virksomheder og husholdninger til ligev\xc3\xa6rdige medspillere p\xc3\xa5 en \xc3\xa6gte gr\xc3\xb8n politik. 70% reduktionsm\xc3\xa5l er fint men det er jo ikke nok at s\xc3\xa6tte m\xc3\xa5l. Hvem havde husket hvad JFK sagde omkring \xc3\xb8nsket om m\xc3\xa5nelandingen hvis ikke Armstrong havde taget \xe2\x80\x9ca giant leap for mankind\xe2\x80\x9d for 50 \xc3\xa5r siden - vi kan i DK tage et stort skridt for menneskeheden MEN det kr\xc3\xa6ver at vi er konkrete og vi som politikere ikke kun holder taler - fylder salene med ord - vi skal \xe2\x80\x9cWalk the talk\xe2\x80\x9d. Det er Venstre klar til uden at det bliver dyrere at v\xc3\xa6re dansker - uden at vi g\xc3\xb8r vores virksomheder til modstandere. Jeg gl\xc3\xa6der mig til arbejdet med at g\xc3\xb8re DK rigere, friere, gr\xc3\xb8nnere og sundere\xf0\x9f\x98\x84\xf0\x9f\x98\x84'
+19:04:20: Scraping Every Record - b'https://www.facebook.com/heidibank.dk/'
+19:04:29: PostURL https://www.facebook.com/heidibank.dk/posts/2575076116044428
+19:04:29: Post Date b'10/9/19, 12:35 AM'
+19:04:29: Post Content: b'I dag fik jeg overst\xc3\xa5et min jomfrutale, det kaldes det, fra Folketingets talerstol. De to Lovforslag der var til 1. behandling var L12 \xc3\x86ndring af lov om almene boliger, hvor der \xc3\xa5bnes for at nybyggeri opf\xc3\xb8rt i samarbejde med private, og L13 Lov om \xc3\xa6ndring af byggeloven der kort fortalt handler om den gr\xc3\xb8nne omstilling s\xc3\xa5 ejd. bliver mere energieffektive og der skal etableres langt flere ladestandere end i dag.'
+19:04:29: Scraping Every Record - b'https://www.facebook.com/jelved'
+19:04:57: PostURL https://www.facebook.com/jelved/posts/2329140890462960
+19:04:57: Post Date b'6/4/19, 5:02 PM'
+19:04:57: Post Content: b'I dag har jeg v\xc3\xa6ret ude og banke p\xc3\xa5 d\xc3\xb8re for at snakke med mennesker om, hvilken retning de \xc3\xb8nsker for Danmark. Heldigvis siger mange, at de \xc3\xb8nsker en gr\xc3\xb8nnere retning med mere hjerte i udl\xc3\xa6ndingepolitikken \xf0\x9f\x85\xb1\xef\xb8\x8f\xf0\x9f\x8d\x80\xf0\x9f\x8c\x8e'
+19:04:57: Scraping Every Record - b'https://www.facebook.com/SimonEmil/'
+19:05:07: PostURL https://www.facebook.com/SimonEmil/posts/2467520173495910
+19:05:07: Post Date b'12/4/19, 11:05 AM'
+19:05:07: Post Content: b'Vil du hj\xc3\xa6lpe partiet Fremad?'
+19:05:07: Scraping Every Record - b'https://www.facebook.com/kristeligt/'
+19:05:32: PostURL https://www.facebook.com/kristeligt/posts/10157864707582402
+19:05:32: Post Date b'12/25/19, 1:00 PM'
+19:05:32: Post Content: b'\xe2\x80\x9dVelvidende at jeg nu risikerer at p\xc3\xa5kalde mig samtlige forbandelser fra de mere klimasekteriske grupperinger, m\xc3\xa5 jeg sige, at i julen m\xc3\xa5 klimakampen klare sig uden mig. Her vinder traditioner over tids\xc3\xa5nd, k\xc3\xb8d over klima,\xe2\x80\x9d skriver Kristeligt Dagblads skribent'
+19:05:32: Scraping Every Record - b'https://www.facebook.com/michaelaastrup/'
+19:05:40: PostURL https://www.facebook.com/michaelaastrup/posts/2341356999303077
+19:05:40: Post Date b'12/2/19, 6:57 PM'
+19:05:40: Post Content: b'Var i dag v\xc3\xa6rt ved h\xc3\xb8ring sammen med min gamle chef, Anders Fogh Rasmussen og hans Alliance for Democracies organisation, hvor vi satte fokus p\xc3\xa5, hvordan vi f\xc3\xa5r bek\xc3\xa6mpet misinformation kampagnerne og indblandingen i valg fra bl.a. Rusland og Kina.'
+19:05:40: Scraping Every Record - b'https://www.facebook.com/liselott.blixt'
+19:05:43: Not Posts page
+19:06:39: PostURL https://www.facebook.com/liselott.blixt/posts/10220079568361637?__xts__%5B0%5D=68.ARDecuQxYlFVo7xF53q8USYdCskCHAgRjXuLaFG0-gVuGZsRHRRLkBXPTgxQnjLg4kTTOWsrX9U6-R5uYMw9Zta1F5dOCD2Rq2BVDP8FxVvtkiA0tI0irHwYocHu7euexDjCgsjQbAPevI4F_11796X_NltKgeJHwlBceb9GIY8Z_vgXXGwfIJBJxHWJKndGaYUbbTzYyIaCUXoksiX6sTD79yLKuzP821ifCHlXhmgG6KEfkSnKYClxXEbc9V6hnOOIWg&__tn__=-R
+19:06:39: Post Date b'12/13/19, 11:36 AM'
+19:06:39: Post Content: b'Sidste dag i Madrid, kommer desv\xc3\xa6rre for sent hjem til at n\xc3\xa5 julefrokosten, s\xc3\xa5 h\xc3\xa5ber mine kollegaer, personale og gamle kollegaer f\xc3\xa5r en god julefrokost.'
+19:06:39: Scraping Every Record - b'https://www.facebook.com/nickhaekkerup/'
+19:06:51: PostURL https://www.facebook.com/nickhaekkerup/posts/2452719014746336
+19:06:51: Post Date b'5/29/19, 2:42 PM'
+19:06:51: Post Content: b'CO2-udledningen i Danmark steg sidste \xc3\xa5r. P\xc3\xa5 trods af alle advarsler og viden om klimaforandringerne.\nOrd er ikke nok \xe2\x80\x93 der er brug for handling. Nu. Og vi skal s\xc3\xa6tte tempo p\xc3\xa5.'
+19:06:51: Scraping Every Record - b'https://www.facebook.com/abildgaard.mette/'
+19:06:58: PostURL https://www.facebook.com/abildgaard.mette/posts/1448968221938989
+19:06:58: Post Date b'12/25/19, 11:19 PM'
+19:06:58: Post Content: b'Uhhh, s\xc3\xa5 er det den tid p\xc3\xa5 \xc3\xa5ret igen!'
+19:06:58: Scraping Every Record - b'https://www.facebook.com/borsen.dk/'
+19:07:05: PostURL https://www.facebook.com/borsen.dk/posts/2934687049889270
+19:07:05: Post Date b'12/27/19, 4:05 PM'
+19:07:05: Post Content: b'Indtil videre har S&P 500 givet et totalafkast 54 pct., siden Donald Trump blev valgt som de forenede staters femogfyrretyvende pr\xc3\xa6sident 6. november 2016. En fremgang, pr\xc3\xa6sidenten ikke er bleg for at kommentere p\xc3\xa5 Twitter. S\xc3\xa5dan her l\xc3\xb8d det p\xc3\xa5 tre\xc3\xa5rsdagen for Trumps valgsejr:'
+19:07:05: Scraping Every Record - b'https://www.facebook.com/LFdirektoer/'
+19:07:12: PostURL https://www.facebook.com/LFdirektoer/posts/3327619617310332
+19:07:12: Post Date b'12/20/19, 10:02 PM'
+19:07:12: Post Content: b'Tommy Ahlers kom midt i Folketingets afstemninger forbi Landbrug & F\xc3\xb8devarer i dag. Vi fik en vigtig dr\xc3\xb8ftelse om fremtidens landbrug. Tommy ser med sit st\xc3\xa6rke forretningsgen og som erhvervsordf\xc3\xb8rer for Venstre i den grad et afg\xc3\xb8rende potientiale i vores ambiti\xc3\xb8se klimam\xc3\xa5l og b\xc3\xa6redygtig udvikling. Der er i hans \xc3\xb8jne innovationskraft i v\xc3\xa6rdik\xc3\xa6den, men giver os ogs\xc3\xa5 et opr\xc3\xa5b om at huske at tage innovationskraften og forretningsudviklingen alvorligt hos n\xc3\xa6ste generations landm\xc3\xa6nd og vores f\xc3\xb8devarevirksomheder.'
+19:07:12: Scraping Every Record - b'https://www.facebook.com/peter.juel.jensen'
+19:07:15: Not Posts page
+19:07:22: PostURL https://www.facebook.com/peter.juel.jensen/posts/10222042905560352
+19:07:22: Post Date b'12/20/19, 2:01 PM'
+19:07:22: Post Content: b'Marie Bjerre, (V), p\xc3\xa5 talerstolen for at sl\xc3\xa5 et slag for en \xc3\xa6gte gr\xc3\xb8n omstilling. Regeringen og st\xc3\xb8ttepartier har indf\xc3\xb8rt en forh\xc3\xb8jet afgift p\xc3\xa5 b\xc3\xa6reposer og engangsservice efter v\xc3\xa6gt \xe2\x80\x93 det betyder at alternative l\xc3\xb8sninger som bionedbrydelig l\xc3\xb8sninger og genbrug af f.eks. plast ikke kan betale sig.'
+19:07:22: Scraping Every Record - b'https://www.facebook.com/zeniastampe/'
+19:07:32: PostURL https://www.facebook.com/zeniastampe/posts/3211912932158186
+19:07:32: Post Date b'12/16/19, 3:39 PM'
+19:07:32: Post Content: b'De fleste har h\xc3\xb8rt om, hvordan afskovningen af Amazonas udg\xc3\xb8r en k\xc3\xa6mpe trussel mod klodens klima og verdens biodiversitet. De fleste ved m\xc3\xa5ske ogs\xc3\xa5, at regnskoven f\xc3\xa6ldes og br\xc3\xa6ndes for at give plads til bl.a. sojaproduktion. Men de f\xc3\xa6rreste ved nok, hvilken rolle dansk landbrug - og navnlig dansk svineproduktionen - spiller i den forbindelse.'
+19:07:32: Scraping Every Record - b'https://www.facebook.com/kaaredybvad/'
+19:07:47: PostURL https://www.facebook.com/kaaredybvad/posts/3149334038411093
+19:07:47: Post Date b'12/3/19, 1:25 AM'
+19:07:47: Post Content: b''
+19:07:47: Scraping Every Record - b'https://www.facebook.com/OrlaOsterbyIFolketinget'
+19:07:54: PostURL https://www.facebook.com/OrlaOsterbyIFolketinget/posts/1362210363950821
+19:07:54: Post Date b'12/12/19, 2:53 PM'
+19:07:54: Post Content: b'V\xc3\xa6kst og arbejdspladser er foruds\xc3\xa6tningen for vores b\xc3\xb8rns fremtid!'
+19:07:54: Scraping Every Record - b'https://www.facebook.com/stemtesfaye/'
+19:08:07: PostURL https://www.facebook.com/stemtesfaye/posts/2452448888178090
+19:08:07: Post Date b'9/27/19, 5:15 PM'
+19:08:07: Post Content: b''
+19:08:07: Scraping Every Record - b'https://www.facebook.com/christiansborg'
+19:08:10: Not Posts page
+19:08:20: PostURL https://www.facebook.com/christiansborg/posts/2756013577796047
+19:08:20: Post Date b'10/1/19, 3:25 PM'
+19:08:20: Post Content: b'Eg fegnist um, at fors\xc3\xa6tisr\xc3\xa1\xc3\xb0harrin \xc3\xad setanarr\xc3\xb8\xc3\xb0uni bo\xc3\xb0a\xc3\xb0i fr\xc3\xa1, at danska stj\xc3\xb3rnin vil br\xc3\xbaka 1 milliard kr\xc3\xb3nur til gr\xc3\xb8na gransking n\xc3\xa6sta \xc3\xa1r. Eisini leg\xc3\xb0i hon st\xc3\xb3ran dent \xc3\xa1 samstarv vi\xc3\xb0 n\xc3\xbdggja landsst\xc3\xbdri og \xc3\xad R\xc3\xadkisfelagsskapinum yvirh\xc3\xb8vur:'
+19:08:20: Scraping Every Record - b'https://www.facebook.com/hansandersen.venstre/'
+19:08:38: PostURL https://www.facebook.com/hansandersen.venstre/posts/2592367867507477
+19:08:38: Post Date b'11/28/19, 10:59 AM'
+19:08:38: Post Content: b'Vi skal have flere gr\xc3\xb8nne biler i Danmark. Vil regeringen handle eller er det hele blot snak. Vi har brug for afgiftsfri elbiler ogs\xc3\xa5 i 2021.'
+19:08:38: Scraping Every Record - b'https://www.facebook.com/erling.bonnesen/'
+19:08:45: PostURL https://www.facebook.com/erling.bonnesen/posts/1409311875912817
+19:08:45: Post Date b'12/20/19, 3:37 PM'
+19:08:45: Post Content: b'Danmark er verdensmestre i gr\xc3\xa6sfr\xc3\xb8 \xf0\x9f\x91\x8d\xf0\x9f\x98\x80\xe2\x9a\xbd\xef\xb8\x8f\nTil sommer deltager Danmark i EM i fodbold. Det ligger m\xc3\xa5ske ikke lige til h\xc3\xb8jrebenet, at Danmark gentager triumfen fra 1992, men til geng\xc3\xa6ld har vi allerede hevet et andet verdensmesterskab p\xc3\xa5 gr\xc3\xb8nsv\xc3\xa6ren hjem, nemlig den uofficielle titel som verdensmester i gr\xc3\xa6sfr\xc3\xb8.\nI n\xc3\xa6sten stilhed er eksport af fr\xc3\xb8 blevet en k\xc3\xa6mpe forretning for Danmark. Vi eksporterer for over to mia. kroner om \xc3\xa5ret. P\xc3\xa5 mange af de store stadioner rundt omkring i ...'
+19:08:45: Scraping Every Record - b'https://www.facebook.com/S%C3%B8ren-Egge-Rasmussen-947582238609972'
+19:08:54: PostURL https://www.facebook.com/S%C3%B8ren-Egge-Rasmussen-947582238609972/posts/2898654616836048
+19:08:54: Post Date b'12/24/19, 5:12 PM'
+19:08:54: Post Content: b'Vintergr\xc3\xb8nk\xc3\xa5l kan anbefales i den \xc3\xb8kologiske og veganske udgave. Tilsat karry og rodfrugter. Jeg spiser det hele vinteren. Godt solhverv til alle - vi g\xc3\xa5r nu mod lysere tider.'
+19:08:54: Scraping Every Record - b'https://www.facebook.com/ida.auken/'
+19:09:00: PostURL https://www.facebook.com/ida.auken/posts/10157525298377199
+19:09:00: Post Date b'12/17/19, 5:06 PM'
+19:09:00: Post Content: b'\xc3\x85rets ord i Sverige i 2019 var "kom\xc3\xa6lk". M\xc3\xa6lk i kaffen er med andre ord ikke, hvad det har v\xc3\xa6ret. Flere og flere steder bliver man spurgt, om man \xc3\xb8nsker havrem\xc3\xa6lk, sojam\xc3\xa6lk eller ja... kom\xc3\xa6lk. S\xc3\xa5 kan man som landmand selvf\xc3\xb8lgelig godt s\xc3\xa6tte sig ned og klappe sig p\xc3\xa5 l\xc3\xa5rene af grin over alle de veganertyper, der springer ud i byerne. Men man kunne ogs\xc3\xa5 kigge lidt n\xc3\xa6rmere p\xc3\xa5, hvad det er for en udvikling, der er i gang. USA\'s st\xc3\xb8rste m\xc3\xa6lkeproducent gik konkurs for et par uger si...'
+19:09:00: Scraping Every Record - b'https://www.facebook.com/janeheitmannV/'
+19:09:17: PostURL https://www.facebook.com/janeheitmannV/posts/950570155276192
+19:09:17: Post Date b'10/10/19, 1:35 PM'
+19:09:17: Post Content: b'Klar i Folketingssalen til 1. beh af anl\xc3\xa6gslov om ny jernbane over Vestfyn. Fint med ny Jernbane - men den m\xc3\xa5 ikke tilsides\xc3\xa6tte udvidelsen af fynske E20'
+19:09:17: Scraping Every Record - b'https://www.facebook.com/christofferaagaardmelson/'
+19:09:26: PostURL https://www.facebook.com/christofferaagaardmelson/posts/2763584703696330
+19:09:26: Post Date b'12/21/19, 8:17 PM'
+19:09:26: Post Content: b''
+19:09:26: Scraping Every Record - b'https://www.facebook.com/christian.rabjerg'
+19:09:34: PostURL https://www.facebook.com/christian.rabjerg/posts/2464984990422708
+19:09:34: Post Date b'12/19/19, 1:56 PM'
+19:09:34: Post Content: b'Finansloven er en realitet. Et stort l\xc3\xb8ft af den n\xc3\xa6re velf\xc3\xa6rd og et ordentlig boost af den gr\xc3\xb8nne omstilling.\nJulehum\xc3\xb8ret er h\xc3\xb8jt, og ferien n\xc3\xa6rmer sig. Yes!'
+19:09:34: Scraping Every Record - b'https://www.facebook.com/jensrohdedk/'
+19:10:00: PostURL https://www.facebook.com/jensrohdedk/posts/2566106850142417
+19:10:00: Post Date b'11/8/19, 10:04 AM'
+19:10:00: Post Content: b'For 30 \xc3\xa5r siden s\xc3\xa5 det s\xc3\xa5dan ud i \xc3\x98stberlin. Med mur og de karakteristiske gr\xc3\xb8nne/lysgr\xc3\xb8nne DDR-tog og trabi lastbiler.\nJeg kan godt lide historie, s\xc3\xa5 her er et foto af min lille togbane med \xc3\xb8sttysk tog og mur!\nFor en halvtysker med mange DDR stempler i passet er disse d\xc3\xb8gn mellem den 8. og 9. og 10 november med demonstrationernes kulmination videre til Schabowskis meddelelse om rejsefrihed og gennebruddet af muren i november altid noget s\xc3\xa6rligt. Og nu er det 30 \xc3\xa5r siden, at muren faldt. Jeg n\xc3\xa5ede som EF-radioreporter at lave interview med den sidste leder i DDR, Egon Krenz. Sendt p\xc3\xa5 Radio Viborg.\nM\xc3\xa5ske jeg bare skulle lade toget brage gennem muren!'
+19:10:00: Scraping Every Record - b'https://www.facebook.com/JuulMona/'
+19:10:14: PostURL https://www.facebook.com/JuulMona/posts/2377735489209244
+19:10:14: Post Date b'12/7/19, 12:21 PM'
+19:10:14: Post Content: b'Det blev en gr\xc3\xb8n jul \xf0\x9f\x99\x8f'
+19:10:14: Scraping Every Record - b'https://www.facebook.com/Lise.Bech.DF'
+19:10:47: PostURL https://www.facebook.com/Lise.Bech.DF/posts/2866907003331303
+19:10:47: Post Date b'11/25/19, 10:57 PM'
+19:10:47: Post Content: b'Jeg har i dag bes\xc3\xb8gt Danmarks f\xc3\xb8rste gr\xc3\xa6sm\xc3\xa6lksproducent Torsten Wetche i Fars\xc3\xb8. Hans k\xc3\xb8er f\xc3\xa5r kun gr\xc3\xa6s og det pudsige er, at de nu giver mere m\xc3\xa6lk end f\xc3\xb8r. \xf0\x9f\x90\x82\xf0\x9f\x90\x84 Det var Mejeriforeningen der havde inviteret kommende landm\xc3\xa6nd fra Nordjyllands Landbrugsskole og undertegnede til udveksling af viden, den gr\xc3\xb8nne omstilling af mejerisektoren og debat.'
+19:10:47: Scraping Every Record - b'https://www.facebook.com/AnnePaulin2/'
+19:10:56: PostURL https://www.facebook.com/AnnePaulin2/posts/2488579828084513
+19:10:56: Post Date b'12/19/19, 3:27 PM'
+19:10:56: Post Content: b'Vigtige sider til det n\xc3\xa6ste kapitel i den gr\xc3\xb8nne omstilling bliver skrevet hos Greenlab i Skive, der nu f\xc3\xa5r 80 millioner statslige kroner til deres projekt med energilagring \xf0\x9f\x92\xaa'
+19:12:54: Scraping Finished 181

@@ -2,6 +2,7 @@ from airtable.airtable import Airtable
 from airtable import airtable
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
+from apscheduler.schedulers.blocking import BlockingScheduler
 
 import requests
 import json
@@ -17,7 +18,11 @@ AIRTABLE_API_KEY = 'keyJtbYuiGN3PoIR1'
 
 FACEBOOK_ACCESS_TOKEN = 'EAAGztMNa1qkBAOQjKZATsrf60b9Njh6APTpZA01XzFARiVWocWL6q86yVsz1PL1FEUIoDgxcXSZAzZBoCO46C2dT5zS7Y6qJJZBYlA4wb0axhHZC9JL3KoW9x7xcNrmjcDVZBPf0CRFTeJdH3JZBfKcOCa0cH9vyiQvidepg1I6DeuHWW2T8kaGke6qqjwJoZBBvvyuUcFxIk0WFKy8lqGKAS'
 
-if __name__ == '__main__':
+sched = BlockingScheduler()
+
+@sched.scheduled_job('cron', hour=6)
+
+def scheduled_job():
 
     format = "%(asctime)s: %(message)s"
     logTime = datetime.datetime.now()
@@ -351,3 +356,5 @@ if __name__ == '__main__':
         outputTable.insert(Ojson)
     
     logging.info('Scraping Finished %d', len(OutputJson))
+
+sched.start()

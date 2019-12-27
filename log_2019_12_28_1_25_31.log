@@ -1,0 +1,20 @@
+01:25:31: log started
+01:25:34: Parsed Pages Tab
+01:25:35: Parsed Filter Tab
+01:25:41: Scraping Every Record - b'https://www.facebook.com/pernille.skipper.5/'
+01:25:57: englishbtn error
+01:26:02: Date Option Element get error
+01:26:02: PostURL https://www.facebook.com/pernille.skipper.5/posts/
+01:26:02: Post Date b'\xd9\xa6\xe2\x80\x8f/\xd9\xa1\xd9\xa2\xe2\x80\x8f/\xd9\xa2\xd9\xa0\xd9\xa1\xd9\xa9 \xd9\xa1\xd9\xa2:\xd9\xa5\xd9\xa2 \xd9\x85'
+01:26:02: Post Content: b'Nu har Danmark snart en af verdens mest ambiti\xc3\xb8se klimalove, og nu er det slut med at sige til ungdommen, at der er noget, der ikke kan lade sig g\xc3\xb8re. For et \xc3\xa5r siden var det to partier i Folketinget, der snakkede om 70% reduktion senest i 2030. Nu er et gigantisk flertal bag en bindende klimalov, med bindende delm\xc3\xa5l og social balance. Det er intet mindre end historisk. Tillykke til jer\xf0\x9f\x92\x9a'
+01:26:02: Scraping Every Record - b'https://www.facebook.com/rasmuslanghoff.dk'
+01:26:10: englishbtn error
+01:26:14: Date Option Element get error
+01:26:14: PostURL https://www.facebook.com/rasmuslanghoff.dk/posts/
+01:26:14: Post Date b'\xd9\xa2\xe2\x80\x8f/\xd9\xa1\xd9\xa2\xe2\x80\x8f/\xd9\xa2\xd9\xa0\xd9\xa1\xd9\xa9 \xd9\xa1:\xd9\xa3\xd9\xa9 \xd9\x85'
+01:26:14: Post Content: b'VELF\xc3\x86RDENS FINANSLOV \xf0\x9f\x8c\xb9'
+01:26:14: Scraping Every Record - b'https://www.facebook.com/Annette-Lind-879906758810052'
+01:26:58: Scraping Every Record - b'https://www.facebook.com/henrikdamkristensen'
+01:27:00: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021549AC4B38>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it',)': /session/407789d599321971840735d1aa3e259b/url
+01:27:02: Scraping Every Record - b'https://www.facebook.com/danskerhverv/'
+01:27:04: Scraping Every Record - b'https://www.facebook.com/thomasjensensilkeborg'
